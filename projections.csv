@@ -1,0 +1,1097 @@
+,"Table 1.2 Employment by detailed occupation, 2016 and projected 2026
+(Numbers in thousands)",Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9
+0,2016 National Employment Matrix title and code,,Occupation type,Employment,,,,"Change, 2016-26",,"Occupational openings, 2016-26 annual average"
+1,,,,Number,,Percent distribution,,,,
+2,,,,2016,2026.0,2016,2026.0,Number,Percent,
+3,"Total, all occupations",00-0000,Summary,156063.8,167582.3,100,100.0,11518.6,7.4,18742
+4,Management occupations,11-0000,Summary,9533.1,10340.4,6.1,6.2,807.3,8.5,841.5
+5,Top executives,11-1000,Summary,2627.5,2824.5,1.7,1.7,197,7.5,235
+6,Chief executives,11-1011,Line item,308.9,296.8,0.2,0.2,-12.1,-3.9,20
+7,General and operations managers,11-1021,Line item,2263.1,2468.3,1.5,1.5,205.2,9.1,210.7
+8,Legislators,11-1031,Line item,55.5,59.4,0,0.0,3.9,7.1,4.4
+9,"Advertising, marketing, promotions, public relations, and sales managers",11-2000,Summary,708.6,768.9,0.5,0.5,60.3,8.5,67.9
+10,Advertising and promotions managers,11-2011,Line item,31.3,33.0,0,0.0,1.7,5.5,3.4
+11,Marketing and sales managers,11-2020,Summary,603.8,654.8,0.4,0.4,51,8.4,57.6
+12,Marketing managers,11-2021,Line item,218.3,240.4,0.1,0.1,22.1,10.1,21.3
+13,Sales managers,11-2022,Line item,385.5,414.4,0.2,0.2,28.9,7.5,36.3
+14,Public relations and fundraising managers,11-2031,Line item,73.5,81.1,0,0.0,7.7,10.4,6.9
+15,Operations specialties managers,11-3000,Summary,1776.1,1985.0,1.1,1.2,208.9,11.8,160.4
+16,Administrative services managers,11-3011,Line item,281.7,310.2,0.2,0.2,28.5,10.1,26.2
+17,Computer and information systems managers,11-3021,Line item,367.6,411.8,0.2,0.2,44.2,12,32.5
+18,Financial managers,11-3031,Line item,580.4,689.0,0.4,0.4,108.6,18.7,56.9
+19,Industrial production managers,11-3051,Line item,170.6,169.7,0.1,0.1,-0.9,-0.5,11.6
+20,Purchasing managers,11-3061,Line item,73.9,77.9,0,0.0,4,5.5,6.3
+21,"Transportation, storage, and distribution managers",11-3071,Line item,115.5,123.3,0.1,0.1,7.8,6.7,9.7
+22,Compensation and benefits managers,11-3111,Line item,15.8,16.6,0,0.0,0.8,5,1.2
+23,Human resources managers,11-3121,Line item,136.1,148.4,0.1,0.1,12.3,9.1,12.4
+24,Training and development managers,11-3131,Line item,34.5,38.1,0,0.0,3.6,10.3,3.5
+25,Other management occupations,11-9000,Summary,4421,4762.0,2.8,2.8,341,7.7,378.3
+26,"Farmers, ranchers, and other agricultural managers",11-9013,Line item,1028.7,1020.7,0.7,0.6,-8,-0.8,74.3
+27,Construction managers,11-9021,Line item,403.8,448.6,0.3,0.3,44.8,11.1,33.2
+28,Education administrators,11-9030,Summary,531.6,580.4,0.3,0.3,48.8,9.2,45.8
+29,"Education administrators, preschool and childcare center/program",11-9031,Line item,61.8,68.5,0,0.0,6.7,10.8,5.5
+30,"Education administrators, elementary and secondary school",11-9032,Line item,251.3,271.1,0.2,0.2,19.8,7.9,21.2
+31,"Education administrators, postsecondary",11-9033,Line item,180.1,198.3,0.1,0.1,18.2,10.1,15.7
+32,"Education administrators, all other",11-9039,Line item,38.4,42.5,0,0.0,4.1,10.6,3.4
+33,Architectural and engineering managers,11-9041,Line item,180.1,190.0,0.1,0.1,9.9,5.5,13.6
+34,Food service managers,11-9051,Line item,308.7,336.4,0.2,0.2,27.6,9,36.8
+35,Funeral service managers,11-9061,Line item,25.7,27.5,0,0.0,1.8,6.8,2
+36,Gaming managers,11-9071,Line item,4.5,4.6,0,0.0,0.1,2.5,0.5
+37,Lodging managers,11-9081,Line item,47.8,49.7,0,0.0,1.9,4,5
+38,Medical and health services managers,11-9111,Line item,352.2,424.3,0.2,0.3,72.1,20.5,36.7
+39,Natural sciences managers,11-9121,Line item,56.7,62.3,0,0.0,5.6,9.9,5.2
+40,Postmasters and mail superintendents,11-9131,Line item,14.2,11.2,0,0.0,-3,-20.9,0.6
+41,"Property, real estate, and community association managers",11-9141,Line item,317.3,349.9,0.2,0.2,32.6,10.3,28.3
+42,Social and community service managers,11-9151,Line item,147.3,173.8,0.1,0.1,26.5,18,16.3
+43,Emergency management directors,11-9161,Line item,10.1,10.9,0,0.0,0.8,7.7,0.9
+44,"Managers, all other",11-9199,Line item,992.1,1071.7,0.6,0.6,79.5,8,79.2
+45,Business and financial operations occupations,13-0000,Summary,8066.8,8840.7,5.2,5.3,773.8,9.6,817.7
+46,Business operations specialists,13-1000,Summary,5080.8,5556.3,3.3,3.3,475.4,9.4,528
+47,"Agents and business managers of artists, performers, and athletes",13-1011,Line item,19.1,20.0,0,0.0,0.9,4.7,2.3
+48,Buyers and purchasing agents,13-1020,Summary,446.5,425.2,0.3,0.3,-21.3,-4.8,38.6
+49,"Buyers and purchasing agents, farm products",13-1021,Line item,13.7,12.9,0,0.0,-0.9,-6.2,1.4
+50,"Wholesale and retail buyers, except farm products",13-1022,Line item,123.3,120.3,0.1,0.1,-3,-2.5,13.3
+51,"Purchasing agents, except wholesale, retail, and farm products",13-1023,Line item,309.4,292.1,0.2,0.2,-17.4,-5.6,23.8
+52,"Claims adjusters, appraisers, examiners, and investigators",13-1030,Summary,328.7,325.1,0.2,0.2,-3.6,-1.1,26
+53,"Claims adjusters, examiners, and investigators",13-1031,Line item,311.1,306.7,0.2,0.2,-4.5,-1.4,24.5
+54,"Insurance appraisers, auto damage",13-1032,Line item,17.6,18.5,0,0.0,0.9,4.9,1.5
+55,Compliance officers,13-1041,Line item,288.3,312.0,0.2,0.2,23.7,8.2,25.9
+56,Cost estimators,13-1051,Line item,217.9,240.8,0.1,0.1,22.9,10.5,24.4
+57,Human resources workers,13-1070,Summary,631.8,664.7,0.4,0.4,32.9,5.2,64.7
+58,Human resources specialists,13-1071,Line item,547.8,586.7,0.4,0.4,38.9,7.1,57.6
+59,Farm labor contractors,13-1074,Line item,3,3.2,0,0.0,0.2,8,0.3
+60,Labor relations specialists,13-1075,Line item,81.1,74.8,0.1,0.0,-6.3,-7.7,6.8
+61,Logisticians,13-1081,Line item,148.7,159.0,0.1,0.1,10.3,6.9,15.6
+62,Management analysts,13-1111,Line item,806.4,921.6,0.5,0.5,115.2,14.3,83.9
+63,"Meeting, convention, and event planners",13-1121,Line item,116.7,129.4,0.1,0.1,12.7,10.9,15.1
+64,Fundraisers,13-1131,Line item,90.4,103.8,0.1,0.1,13.4,14.8,10.7
+65,"Compensation, benefits, and job analysis specialists",13-1141,Line item,84.2,91.3,0.1,0.1,7.2,8.5,7.7
+66,Training and development specialists,13-1151,Line item,282.8,315.3,0.2,0.2,32.5,11.5,31.7
+67,Market research analysts and marketing specialists,13-1161,Line item,595.4,733.7,0.4,0.4,138.3,23.2,77.1
+68,"Business operations specialists, all other",13-1199,Line item,1023.9,1114.3,0.7,0.7,90.3,8.8,104.2
+69,Financial specialists,13-2000,Summary,2986,3284.4,1.9,2.0,298.4,10,289.6
+70,Accountants and auditors,13-2011,Line item,1397.7,1537.6,0.9,0.9,139.9,10,141.8
+71,Appraisers and assessors of real estate,13-2021,Line item,80.8,92.4,0.1,0.1,11.7,14.4,6.7
+72,Budget analysts,13-2031,Line item,58.4,62.2,0,0.0,3.8,6.5,4.8
+73,Credit analysts,13-2041,Line item,73.8,79.9,0,0.0,6.2,8.4,6.8
+74,Financial analysts and advisors,13-2050,Summary,672,739.2,0.4,0.4,67.2,10,62.1
+75,Financial analysts,13-2051,Line item,296.1,328.2,0.2,0.2,32.2,10.9,29
+76,Personal financial advisors,13-2052,Line item,271.9,312.3,0.2,0.2,40.4,14.9,25.5
+77,Insurance underwriters,13-2053,Line item,104.1,98.6,0.1,0.1,-5.4,-5.2,7.5
+78,Financial examiners,13-2061,Line item,52.5,57.6,0,0.0,5.1,9.8,4.6
+79,Credit counselors and loan officers,13-2070,Summary,357,398.5,0.2,0.2,41.6,11.6,34.2
+80,Credit counselors,13-2071,Line item,38.3,43.6,0,0.0,5.3,13.8,3.8
+81,Loan officers,13-2072,Line item,318.6,354.9,0.2,0.2,36.3,11.4,30.4
+82,"Tax examiners, collectors and preparers, and revenue agents",13-2080,Summary,158,167.9,0.1,0.1,9.9,6.3,15.7
+83,"Tax examiners and collectors, and revenue agents",13-2081,Line item,62.1,61.7,0,0.0,-0.4,-0.6,4.2
+84,Tax preparers,13-2082,Line item,95.9,106.2,0.1,0.1,10.3,10.8,11.5
+85,"Financial specialists, all other",13-2099,Line item,135.9,149.0,0.1,0.1,13.1,9.6,13.1
+86,Computer and mathematical occupations,15-0000,Summary,4419,5026.5,2.8,3.0,607.5,13.7,366.8
+87,Computer occupations,15-1100,Summary,4238.4,4795.5,2.7,2.9,557.1,13.1,349
+88,Computer and information research scientists,15-1111,Line item,27.9,33.2,0,0.0,5.4,19.2,2.5
+89,Computer and information analysts,15-1120,Summary,700.5,783.4,0.4,0.5,82.9,11.8,55.4
+90,Computer systems analysts,15-1121,Line item,600.5,654.9,0.4,0.4,54.4,9.1,44.9
+91,Information security analysts,15-1122,Line item,100,128.5,0.1,0.1,28.5,28.5,10.4
+92,Software developers and programmers,15-1130,Summary,1714,2019.6,1.1,1.2,305.6,17.8,148.7
+93,Computer programmers,15-1131,Line item,294.9,273.6,0.2,0.2,-21.3,-7.2,15.5
+94,"Software developers, applications",15-1132,Line item,831.3,1086.6,0.5,0.6,255.4,30.7,85.7
+95,"Software developers, systems software",15-1133,Line item,425,472.1,0.3,0.3,47.1,11.1,32.9
+96,Web developers,15-1134,Line item,162.9,187.2,0.1,0.1,24.4,15,14.6
+97,Database and systems administrators and network architects,15-1140,Summary,673.4,721.7,0.4,0.4,48.2,7.2,48
+98,Database administrators,15-1141,Line item,119.5,133.2,0.1,0.1,13.7,11.5,9.3
+99,Network and computer systems administrators,15-1142,Line item,391.3,415.3,0.3,0.2,24,6.1,27
+100,Computer network architects,15-1143,Line item,162.7,173.2,0.1,0.1,10.5,6.5,11.7
+101,Computer support specialists,15-1150,Summary,835.3,923.8,0.5,0.6,88.5,10.6,72
+102,Computer user support specialists,15-1151,Line item,636.6,708.7,0.4,0.4,72.1,11.3,55.5
+103,Computer network support specialists,15-1152,Line item,198.8,215.2,0.1,0.1,16.4,8.3,16.5
+104,"Computer occupations, all other",15-1199,Line item,287.2,313.8,0.2,0.2,26.6,9.3,22.4
+105,Mathematical science occupations,15-2000,Summary,180.7,231.0,0.1,0.1,50.4,27.9,17.8
+106,Actuaries,15-2011,Line item,23.6,28.9,0,0.0,5.3,22.5,2.1
+107,Mathematicians,15-2021,Line item,3.1,4.0,0,0.0,0.9,29.7,0.3
+108,Operations research analysts,15-2031,Line item,114,145.3,0.1,0.1,31.3,27.4,10.7
+109,Statisticians,15-2041,Line item,37.2,49.8,0,0.0,12.6,33.8,4.4
+110,Miscellaneous mathematical science occupations,15-2090,Summary,2.8,3.1,0,0.0,0.3,10.3,0.2
+111,Mathematical technicians,15-2091,Line item,0.6,0.6,0,0.0,0,7.8,0
+112,"Mathematical science occupations, all other",15-2099,Line item,2.2,2.4,0,0.0,0.2,11,0.2
+113,Architecture and engineering occupations,17-0000,Summary,2601,2795.4,1.7,1.7,194.3,7.5,210.1
+114,"Architects, surveyors, and cartographers",17-1000,Summary,210.9,225.3,0.1,0.1,14.5,6.9,16.7
+115,"Architects, except naval",17-1010,Summary,153.5,160.5,0.1,0.1,7,4.6,11.7
+116,"Architects, except landscape and naval",17-1011,Line item,128.8,134.2,0.1,0.1,5.5,4.2,9.7
+117,Landscape architects,17-1012,Line item,24.7,26.3,0,0.0,1.6,6.4,1.9
+118,"Surveyors, cartographers, and photogrammetrists",17-1020,Summary,57.4,64.8,0,0.0,7.5,13,5
+119,Cartographers and photogrammetrists,17-1021,Line item,12.6,15.0,0,0.0,2.4,19.4,1.2
+120,Surveyors,17-1022,Line item,44.8,49.8,0,0.0,5,11.2,3.8
+121,Engineers,17-2000,Summary,1681,1820.3,1.1,1.1,139.3,8.3,126.6
+122,Aerospace engineers,17-2011,Line item,69.6,73.8,0,0.0,4.2,6.1,4.6
+123,Agricultural engineers,17-2021,Line item,2.7,2.9,0,0.0,0.2,8.2,0.2
+124,Biomedical engineers,17-2031,Line item,21.3,22.8,0,0.0,1.5,7.2,1.6
+125,Chemical engineers,17-2041,Line item,32.7,35.1,0,0.0,2.5,7.5,2.4
+126,Civil engineers,17-2051,Line item,303.5,335.7,0.2,0.2,32.2,10.6,25.9
+127,Computer hardware engineers,17-2061,Line item,73.6,77.6,0,0.0,4,5.5,5.1
+128,Electrical and electronics engineers,17-2070,Summary,324.6,345.8,0.2,0.2,21.3,6.5,23.1
+129,Electrical engineers,17-2071,Line item,188.3,204.5,0.1,0.1,16.2,8.6,13.9
+130,"Electronics engineers, except computer",17-2072,Line item,136.3,141.3,0.1,0.1,5.1,3.7,9.2
+131,Environmental engineers,17-2081,Line item,53.8,58.3,0,0.0,4.5,8.3,4
+132,"Industrial engineers, including health and safety",17-2110,Summary,283.8,311.2,0.2,0.2,27.4,9.6,21.6
+133,"Health and safety engineers, except mining safety engineers and inspectors",17-2111,Line item,25.9,28.1,0,0.0,2.2,8.6,1.9
+134,Industrial engineers,17-2112,Line item,257.9,283.0,0.2,0.2,25.1,9.7,19.7
+135,Marine engineers and naval architects,17-2121,Line item,8.2,9.2,0,0.0,1,11.5,0.6
+136,Materials engineers,17-2131,Line item,27,27.5,0,0.0,0.4,1.6,1.9
+137,Mechanical engineers,17-2141,Line item,288.8,314.1,0.2,0.2,25.3,8.8,21.2
+138,"Mining and geological engineers, including mining safety engineers",17-2151,Line item,7.3,7.9,0,0.0,0.6,8.2,0.6
+139,Nuclear engineers,17-2161,Line item,17.7,18.4,0,0.0,0.7,3.8,1.4
+140,Petroleum engineers,17-2171,Line item,33.7,38.8,0,0.0,5.1,15.2,2.8
+141,"Engineers, all other",17-2199,Line item,132.5,141.0,0.1,0.1,8.5,6.4,9.5
+142,"Drafters, engineering technicians, and mapping technicians",17-3000,Summary,709.2,749.7,0.5,0.4,40.5,5.7,66.8
+143,Drafters,17-3010,Summary,207.7,222.3,0.1,0.1,14.6,7,19.4
+144,Architectural and civil drafters,17-3011,Line item,99.6,107.7,0.1,0.1,8.1,8.1,9.5
+145,Electrical and electronics drafters,17-3012,Line item,27.4,29.3,0,0.0,1.9,6.8,2.6
+146,Mechanical drafters,17-3013,Line item,64.8,68.2,0,0.0,3.4,5.2,5.9
+147,"Drafters, all other",17-3019,Line item,15.9,17.2,0,0.0,1.3,8,1.5
+148,"Engineering technicians, except drafters",17-3020,Summary,441.3,460.8,0.3,0.3,19.5,4.4,40.1
+149,Aerospace engineering and operations technicians,17-3021,Line item,12.1,12.9,0,0.0,0.8,6.6,1.1
+150,Civil engineering technicians,17-3022,Line item,74.5,81.1,0,0.0,6.6,8.8,7.2
+151,Electrical and electronics engineering technicians,17-3023,Line item,137,139.8,0.1,0.1,2.7,2,12
+152,Electro-mechanical technicians,17-3024,Line item,13.8,14.3,0,0.0,0.5,3.5,1.2
+153,Environmental engineering technicians,17-3025,Line item,17,19.1,0,0.0,2.2,12.9,1.7
+154,Industrial engineering technicians,17-3026,Line item,63.9,64.3,0,0.0,0.4,0.6,5.5
+155,Mechanical engineering technicians,17-3027,Line item,46.1,48.4,0,0.0,2.3,5,4.2
+156,"Engineering technicians, except drafters, all other",17-3029,Line item,76.8,80.8,0,0.0,4,5.2,7.1
+157,Surveying and mapping technicians,17-3031,Line item,60.2,66.6,0,0.0,6.4,10.6,7.2
+158,"Life, physical, and social science occupations",19-0000,Summary,1299.5,1424.3,0.8,0.8,124.8,9.6,132.8
+159,Life scientists,19-1000,Summary,325.4,358.0,0.2,0.2,32.6,10,32.4
+160,Agricultural and food scientists,19-1010,Summary,43,46.1,0,0.0,3.1,7.2,4.7
+161,Animal scientists,19-1011,Line item,6.1,6.4,0,0.0,0.4,5.9,0.7
+162,Food scientists and technologists,19-1012,Line item,17,18.0,0,0.0,1,5.7,1.8
+163,Soil and plant scientists,19-1013,Line item,19.9,21.7,0,0.0,1.8,8.8,2.2
+164,Biological scientists,19-1020,Summary,112.8,122.9,0.1,0.1,10.1,8.9,11
+165,Biochemists and biophysicists,19-1021,Line item,31.5,35.1,0,0.0,3.6,11.5,3.2
+166,Microbiologists,19-1022,Line item,23.2,25.1,0,0.0,1.9,8.2,2.2
+167,Zoologists and wildlife biologists,19-1023,Line item,19.4,20.9,0,0.0,1.5,7.6,1.9
+168,"Biological scientists, all other",19-1029,Line item,38.7,41.8,0,0.0,3.1,8,3.7
+169,Conservation scientists and foresters,19-1030,Summary,34.6,36.6,0,0.0,2,5.8,3.1
+170,Conservation scientists,19-1031,Line item,22.3,23.7,0,0.0,1.4,6.3,2
+171,Foresters,19-1032,Line item,12.3,12.9,0,0.0,0.6,5,1.1
+172,Medical scientists,19-1040,Summary,126.1,142.7,0.1,0.1,16.6,13.2,12.7
+173,Epidemiologists,19-1041,Line item,6.1,6.6,0,0.0,0.5,8.8,0.6
+174,"Medical scientists, except epidemiologists",19-1042,Line item,120,136.1,0.1,0.1,16.1,13.4,12.1
+175,"Life scientists, all other",19-1099,Line item,8.9,9.7,0,0.0,0.8,9.2,0.8
+176,Physical scientists,19-2000,Summary,278.2,305.3,0.2,0.2,27.1,9.7,28
+177,Astronomers and physicists,19-2010,Summary,19.9,22.7,0,0.0,2.8,14,1.9
+178,Astronomers,19-2011,Line item,2,2.2,0,0.0,0.2,10,0.2
+179,Physicists,19-2012,Line item,17.9,20.5,0,0.0,2.6,14.5,1.7
+180,Atmospheric and space scientists,19-2021,Line item,10.4,11.7,0,0.0,1.3,12,0.9
+181,Chemists and materials scientists,19-2030,Summary,96.2,102.5,0.1,0.1,6.3,6.5,9.4
+182,Chemists,19-2031,Line item,88.3,94.0,0.1,0.1,5.7,6.5,8.6
+183,Materials scientists,19-2032,Line item,7.9,8.5,0,0.0,0.6,7.1,0.8
+184,Environmental scientists and geoscientists,19-2040,Summary,128.2,143.3,0.1,0.1,15.1,11.8,13.8
+185,"Environmental scientists and specialists, including health",19-2041,Line item,89.5,99.4,0.1,0.1,9.9,11.1,9.5
+186,"Geoscientists, except hydrologists and geographers",19-2042,Line item,32,36.5,0,0.0,4.5,14,3.5
+187,Hydrologists,19-2043,Line item,6.7,7.4,0,0.0,0.7,9.9,0.7
+188,"Physical scientists, all other",19-2099,Line item,23.5,25.1,0,0.0,1.7,7.2,2
+189,Social scientists and related workers,19-3000,Summary,303.8,336.7,0.2,0.2,32.9,10.8,26.5
+190,Economists,19-3011,Line item,21.3,22.6,0,0.0,1.3,6.3,1.6
+191,Survey researchers,19-3022,Line item,14.6,14.9,0,0.0,0.4,2.5,1.4
+192,Psychologists,19-3030,Summary,166.6,189.6,0.1,0.1,23,13.8,13.6
+193,"Clinical, counseling, and school psychologists",19-3031,Line item,147.5,168.5,0.1,0.1,21,14.3,12.1
+194,Industrial-organizational psychologists,19-3032,Line item,1.7,1.8,0,0.0,0.1,8.4,0.1
+195,"Psychologists, all other",19-3039,Line item,17.4,19.2,0,0.0,1.8,10.5,1.3
+196,Sociologists,19-3041,Line item,3.5,3.5,0,0.0,0,1.3,0.3
+197,Urban and regional planners,19-3051,Line item,36,40.6,0,0.0,4.6,12.8,3.5
+198,Miscellaneous social scientists and related workers,19-3090,Summary,61.9,65.4,0,0.0,3.6,5.8,6.1
+199,Anthropologists and archeologists,19-3091,Line item,7.6,7.9,0,0.0,0.3,4.5,0.7
+200,Geographers,19-3092,Line item,1.5,1.7,0,0.0,0.1,6.7,0.2
+201,Historians,19-3093,Line item,3.3,3.5,0,0.0,0.2,6,0.3
+202,Political scientists,19-3094,Line item,7.3,7.5,0,0.0,0.2,2.8,0.7
+203,"Social scientists and related workers, all other",19-3099,Line item,42.1,44.9,0,0.0,2.7,6.5,4.2
+204,"Life, physical, and social science technicians",19-4000,Summary,392.1,424.3,0.3,0.3,32.2,8.2,45.9
+205,Agricultural and food science technicians,19-4011,Line item,27.5,29.2,0,0.0,1.7,6.3,3
+206,Biological technicians,19-4021,Line item,82.1,90.4,0.1,0.1,8.4,10.2,8.9
+207,Chemical technicians,19-4031,Line item,67.3,70.0,0,0.0,2.7,4,6.6
+208,Geological and petroleum technicians,19-4041,Line item,15,17.4,0,0.0,2.5,16.4,1.9
+209,Nuclear technicians,19-4051,Line item,6.9,6.9,0,0.0,0.1,0.8,0.8
+210,Social science research assistants,19-4061,Line item,34,35.5,0,0.0,1.5,4.3,4.1
+211,"Miscellaneous life, physical, and social science technicians",19-4090,Summary,159.3,174.8,0.1,0.1,15.4,9.7,20.7
+212,"Environmental science and protection technicians, including health",19-4091,Line item,34.6,38.8,0,0.0,4.2,12.1,4.6
+213,Forensic science technicians,19-4092,Line item,15.4,18.0,0,0.0,2.6,16.8,2.2
+214,Forest and conservation technicians,19-4093,Line item,33.2,34.5,0,0.0,1.3,3.8,4
+215,"Life, physical, and social science technicians, all other",19-4099,Line item,76.1,83.5,0,0.0,7.4,9.7,9.9
+216,Community and social service occupations,21-0000,Summary,2570.7,2942.6,1.6,1.8,371.9,14.5,330.7
+217,"Counselors, social workers, and other community and social service specialists",21-1000,Summary,2126.4,2463.9,1.4,1.5,337.5,15.9,274.4
+218,Counselors,21-1010,Summary,744.5,870.7,0.5,0.5,126.3,17,95.1
+219,Substance abuse and behavioral disorder counselors,21-1011,Line item,102.4,126.2,0.1,0.1,23.8,23.2,14.1
+220,"Educational, guidance, school, and vocational counselors",21-1012,Line item,291.7,328.4,0.2,0.2,36.7,12.6,35.3
+221,Marriage and family therapists,21-1013,Line item,41.5,51.2,0,0.0,9.7,23.4,5.7
+222,Mental health counselors,21-1014,Line item,157.7,194.2,0.1,0.1,36.5,23.1,21.6
+223,Rehabilitation counselors,21-1015,Line item,119.3,134.4,0.1,0.1,15.1,12.7,14.5
+224,"Counselors, all other",21-1019,Line item,31.8,36.3,0,0.0,4.5,14.3,3.9
+225,Social workers,21-1020,Summary,682.1,791.8,0.4,0.5,109.7,16.1,84.3
+226,"Child, family, and school social workers",21-1021,Line item,317.6,362.6,0.2,0.2,45,14.2,38.3
+227,Healthcare social workers,21-1022,Line item,176.5,212.0,0.1,0.1,35.4,20.1,22.9
+228,Mental health and substance abuse social workers,21-1023,Line item,123.9,147.9,0.1,0.1,23.9,19.3,15.9
+229,"Social workers, all other",21-1029,Line item,64,69.3,0,0.0,5.3,8.3,7.2
+230,Miscellaneous community and social service specialists,21-1090,Summary,699.9,801.4,0.4,0.5,101.5,14.5,95
+231,Health educators,21-1091,Line item,61,69.9,0,0.0,8.8,14.5,8.7
+232,Probation officers and correctional treatment specialists,21-1092,Line item,91.3,96.5,0.1,0.1,5.2,5.7,8.3
+233,Social and human service assistants,21-1093,Line item,389.8,453.6,0.2,0.3,63.9,16.4,55.4
+234,Community health workers,21-1094,Line item,57.5,67.8,0,0.0,10.4,18.1,8.5
+235,"Community and social service specialists, all other",21-1099,Line item,100.3,113.5,0.1,0.1,13.2,13.2,14.1
+236,Religious workers,21-2000,Summary,444.2,478.7,0.3,0.3,34.4,7.7,56.3
+237,Clergy,21-2011,Line item,243.9,263.8,0.2,0.2,19.9,8.2,29.2
+238,"Directors, religious activities and education",21-2021,Line item,147.1,157.5,0.1,0.1,10.4,7.1,19.4
+239,"Religious workers, all other",21-2099,Line item,53.2,57.3,0,0.0,4.1,7.7,7.7
+240,Legal occupations,23-0000,Summary,1283.3,1399.5,0.8,0.8,116.2,9.1,90.8
+241,"Lawyers, judges, and related workers",23-1000,Summary,858.2,926.9,0.5,0.6,68.7,8,44
+242,Lawyers and judicial law clerks,23-1010,Summary,806.5,872.3,0.5,0.5,65.7,8.2,41.5
+243,Lawyers,23-1011,Line item,792.5,857.5,0.5,0.5,65,8.2,40.7
+244,Judicial law clerks,23-1012,Line item,14,14.8,0,0.0,0.8,5.5,0.8
+245,"Judges, magistrates, and other judicial workers",23-1020,Summary,51.7,54.7,0,0.0,3,5.8,2.5
+246,"Administrative law judges, adjudicators, and hearing officers",23-1021,Line item,15.4,16.0,0,0.0,0.6,4,0.7
+247,"Arbitrators, mediators, and conciliators",23-1022,Line item,7.8,8.7,0,0.0,0.8,10.4,0.4
+248,"Judges, magistrate judges, and magistrates",23-1023,Line item,28.4,30.0,0,0.0,1.6,5.6,1.4
+249,Legal support workers,23-2000,Summary,425.1,472.6,0.3,0.3,47.5,11.2,46.8
+250,Paralegals and legal assistants,23-2011,Line item,285.6,327.4,0.2,0.2,41.8,14.6,34.7
+251,Miscellaneous legal support workers,23-2090,Summary,139.5,145.1,0.1,0.1,5.6,4,12.1
+252,Court reporters,23-2091,Line item,19.6,20.3,0,0.0,0.7,3.4,1.7
+253,"Title examiners, abstractors, and searchers",23-2093,Line item,69,72.0,0,0.0,3,4.4,6
+254,"Legal support workers, all other",23-2099,Line item,50.9,52.8,0,0.0,1.9,3.8,4.4
+255,"Education, training, and library occupations",25-0000,Summary,9426.5,10315.4,6,6.2,888.9,9.4,918.5
+256,Postsecondary teachers,25-1000,Summary,1871.4,2108.3,1.2,1.3,236.9,12.7,172.4
+257,"Business teachers, postsecondary",25-1011,Line item,104.2,123.0,0.1,0.1,18.9,18.1,10.4
+258,"Math and computer teachers, postsecondary",25-1020,Summary,100.6,109.4,0.1,0.1,8.8,8.8,8.7
+259,"Computer science teachers, postsecondary",25-1021,Line item,39.7,42.9,0,0.0,3.2,8.1,3.4
+260,"Mathematical science teachers, postsecondary",25-1022,Line item,60.9,66.6,0,0.0,5.6,9.2,5.3
+261,"Engineering and architecture teachers, postsecondary",25-1030,Summary,57.1,65.0,0,0.0,7.9,13.9,5.4
+262,"Architecture teachers, postsecondary",25-1031,Line item,9.5,10.5,0,0.0,1,10.6,0.8
+263,"Engineering teachers, postsecondary",25-1032,Line item,47.6,54.6,0,0.0,6.9,14.6,4.5
+264,"Life sciences teachers, postsecondary",25-1040,Summary,77.1,87.6,0,0.1,10.6,13.7,7.2
+265,"Agricultural sciences teachers, postsecondary",25-1041,Line item,12.6,13.6,0,0.0,0.9,7.5,1.1
+266,"Biological science teachers, postsecondary",25-1042,Line item,62.3,71.7,0,0.0,9.4,15.2,6
+267,"Forestry and conservation science teachers, postsecondary",25-1043,Line item,2.2,2.3,0,0.0,0.2,7.8,0.2
+268,"Physical sciences teachers, postsecondary",25-1050,Summary,64,70.3,0,0.0,6.3,9.8,5.6
+269,"Atmospheric, earth, marine, and space sciences teachers, postsecondary",25-1051,Line item,13.1,14.4,0,0.0,1.3,9.5,1.2
+270,"Chemistry teachers, postsecondary",25-1052,Line item,26.3,28.9,0,0.0,2.6,9.9,2.3
+271,"Environmental science teachers, postsecondary",25-1053,Line item,6.9,7.6,0,0.0,0.7,9.6,0.6
+272,"Physics teachers, postsecondary",25-1054,Line item,17.6,19.4,0,0.0,1.8,10,1.6
+273,"Social sciences teachers, postsecondary",25-1060,Summary,141.3,158.0,0.1,0.1,16.7,11.8,12.9
+274,"Anthropology and archeology teachers, postsecondary",25-1061,Line item,7.1,7.8,0,0.0,0.7,10,0.6
+275,"Area, ethnic, and cultural studies teachers, postsecondary",25-1062,Line item,11.5,12.7,0,0.0,1.2,10.5,1
+276,"Economics teachers, postsecondary",25-1063,Line item,16.5,18.3,0,0.0,1.8,10.6,1.5
+277,"Geography teachers, postsecondary",25-1064,Line item,5,5.4,0,0.0,0.4,8.4,0.4
+278,"Political science teachers, postsecondary",25-1065,Line item,21.2,23.4,0,0.0,2.2,10.6,1.9
+279,"Psychology teachers, postsecondary",25-1066,Line item,46.9,54.0,0,0.0,7.1,15.1,4.5
+280,"Sociology teachers, postsecondary",25-1067,Line item,17.9,19.6,0,0.0,1.8,9.8,1.6
+281,"Social sciences teachers, postsecondary, all other",25-1069,Line item,15.3,16.8,0,0.0,1.5,10,1.3
+282,"Health teachers, postsecondary",25-1070,Summary,301.4,378.3,0.2,0.2,76.9,25.5,33.1
+283,"Health specialties teachers, postsecondary",25-1071,Line item,233.5,294.0,0.1,0.2,60.6,25.9,25.8
+284,"Nursing instructors and teachers, postsecondary",25-1072,Line item,67.9,84.2,0,0.1,16.3,24,7.3
+285,"Education and library science teachers, postsecondary",25-1080,Summary,80.5,88.8,0.1,0.1,8.2,10.2,7.2
+286,"Education teachers, postsecondary",25-1081,Line item,74.5,82.2,0,0.0,7.7,10.3,6.6
+287,"Library science teachers, postsecondary",25-1082,Line item,6,6.5,0,0.0,0.5,9,0.5
+288,"Law, criminal justice, and social work teachers, postsecondary",25-1110,Summary,53.4,59.6,0,0.0,6.2,11.7,4.8
+289,"Criminal justice and law enforcement teachers, postsecondary",25-1111,Line item,17.3,19.4,0,0.0,2.2,12.5,1.6
+290,"Law teachers, postsecondary",25-1112,Line item,21.2,23.8,0,0.0,2.6,12.3,1.9
+291,"Social work teachers, postsecondary",25-1113,Line item,14.9,16.3,0,0.0,1.5,9.9,1.3
+292,"Arts, communications, and humanities teachers, postsecondary",25-1120,Summary,334.9,372.2,0.2,0.2,37.3,11.1,30.2
+293,"Art, drama, and music teachers, postsecondary",25-1121,Line item,122.5,137.2,0.1,0.1,14.7,12,11.2
+294,"Communications teachers, postsecondary",25-1122,Line item,34.1,37.5,0,0.0,3.4,10,3
+295,"English language and literature teachers, postsecondary",25-1123,Line item,84.6,92.9,0.1,0.1,8.3,9.8,7.5
+296,"Foreign language and literature teachers, postsecondary",25-1124,Line item,35,39.1,0,0.0,4.1,11.9,3.2
+297,"History teachers, postsecondary",25-1125,Line item,26.9,29.7,0,0.0,2.8,10.3,2.4
+298,"Philosophy and religion teachers, postsecondary",25-1126,Line item,31.8,35.7,0,0.0,3.9,12.3,2.9
+299,Miscellaneous postsecondary teachers,25-1190,Summary,557,596.1,0.4,0.4,39.1,7,47
+300,Graduate teaching assistants,25-1191,Line item,168.3,181.2,0.1,0.1,12.9,7.7,14.4
+301,"Home economics teachers, postsecondary",25-1192,Line item,3.5,3.8,0,0.0,0.3,7.8,0.3
+302,"Recreation and fitness studies teachers, postsecondary",25-1193,Line item,20.6,22.6,0,0.0,2,9.7,1.8
+303,"Vocational education teachers, postsecondary",25-1194,Line item,128,129.8,0.1,0.1,1.7,1.4,9.8
+304,"Postsecondary teachers, all other",25-1199,Line item,236.5,258.7,0.2,0.2,22.2,9.4,20.7
+305,"Preschool, primary, secondary, and special education school teachers",25-2000,Summary,4264.8,4598.7,2.7,2.7,333.8,7.8,358.7
+306,Preschool and kindergarten teachers,25-2010,Summary,633,695.3,0.4,0.4,62.3,9.8,70.3
+307,"Preschool teachers, except special education",25-2011,Line item,478.5,528.6,0.3,0.3,50.1,10.5,53.6
+308,"Kindergarten teachers, except special education",25-2012,Line item,154.4,166.7,0.1,0.1,12.3,7.9,16.7
+309,Elementary and middle school teachers,25-2020,Summary,2053.9,2206.2,1.3,1.3,152.3,7.4,164.4
+310,"Elementary school teachers, except special education",25-2021,Line item,1410.9,1514.9,0.9,0.9,104.1,7.4,112.8
+311,"Middle school teachers, except special and career/technical education",25-2022,Line item,630.3,677.7,0.4,0.4,47.3,7.5,50.5
+312,"Career/technical education teachers, middle school",25-2023,Line item,12.7,13.6,0,0.0,0.9,7.3,1
+313,Secondary school teachers,25-2030,Summary,1097.4,1179.2,0.7,0.7,81.8,7.5,85.5
+314,"Secondary school teachers, except special and career/technical education",25-2031,Line item,1018.7,1095.5,0.7,0.7,76.8,7.5,79.5
+315,"Career/technical education teachers, secondary school",25-2032,Line item,78.7,83.7,0.1,0.0,5,6.4,6
+316,Special education teachers,25-2050,Summary,480.6,517.9,0.3,0.3,37.3,7.8,38.5
+317,"Special education teachers, preschool",25-2051,Line item,29.2,32.5,0,0.0,3.3,11.2,2.5
+318,"Special education teachers, kindergarten and elementary school",25-2052,Line item,188.9,202.8,0.1,0.1,13.9,7.4,15
+319,"Special education teachers, middle school",25-2053,Line item,89.3,95.7,0.1,0.1,6.3,7.1,7.1
+320,"Special education teachers, secondary school",25-2054,Line item,131.9,141.6,0.1,0.1,9.7,7.4,10.5
+321,"Special education teachers, all other",25-2059,Line item,41.3,45.4,0,0.0,4.1,9.8,3.4
+322,Other teachers and instructors,25-3000,Summary,1416.2,1568.2,0.9,0.9,152,10.7,176
+323,Adult basic and secondary education and literacy teachers and instructors,25-3011,Line item,68.2,64.7,0,0.0,-3.4,-5.1,6.8
+324,Self-enrichment education teachers,25-3021,Line item,354.2,411.6,0.2,0.2,57.4,16.2,47
+325,"Teachers and instructors, all other",25-3099,Line item,993.9,1091.8,0.6,0.7,98,9.9,122.2
+326,"Librarians, curators, and archivists",25-4000,Summary,268.4,293.9,0.2,0.2,25.6,9.5,32.6
+327,"Archivists, curators, and museum technicians",25-4010,Summary,31,35.1,0,0.0,4.2,13.5,3.7
+328,Archivists,25-4011,Line item,6.8,7.8,0,0.0,1,14.3,0.8
+329,Curators,25-4012,Line item,12.4,14.1,0,0.0,1.7,14,1.5
+330,Museum technicians and conservators,25-4013,Line item,11.8,13.3,0,0.0,1.5,12.4,1.4
+331,Librarians,25-4021,Line item,138.2,150.6,0.1,0.1,12.4,8.9,14.5
+332,Library technicians,25-4031,Line item,99.2,108.2,0.1,0.1,9,9.1,14.4
+333,"Other education, training, and library occupations",25-9000,Summary,1605.7,1746.4,1,1.0,140.7,8.8,178.8
+334,Audio-visual and multimedia collections specialists,25-9011,Line item,11.3,12.3,0,0.0,1,8.9,1.1
+335,Farm and home management advisors,25-9021,Line item,10.4,11.2,0,0.0,0.8,7.5,1
+336,Instructional coordinators,25-9031,Line item,163.2,180.4,0.1,0.1,17.2,10.5,16.9
+337,Teacher assistants,25-9041,Line item,1308.1,1417.6,0.8,0.8,109.5,8.4,147.9
+338,"Education, training, and library workers, all other",25-9099,Line item,112.7,124.9,0.1,0.1,12.2,10.8,11.7
+339,"Arts, design, entertainment, sports, and media occupations",27-0000,Summary,2772.9,2941.0,1.8,1.8,168.1,6.1,288.9
+340,Art and design workers,27-1000,Summary,833.7,867.4,0.5,0.5,33.7,4,78.2
+341,Artists and related workers,27-1010,Summary,217.4,231.6,0.1,0.1,14.2,6.5,18.9
+342,Art directors,27-1011,Line item,90.3,95.2,0.1,0.1,4.9,5.4,7.7
+343,Craft artists,27-1012,Line item,12.5,13.1,0,0.0,0.5,4.3,1.1
+344,"Fine artists, including painters, sculptors, and illustrators",27-1013,Line item,28,29.9,0,0.0,1.9,6.6,2.4
+345,Multimedia artists and animators,27-1014,Line item,73.7,79.9,0,0.0,6.2,8.4,6.6
+346,"Artists and related workers, all other",27-1019,Line item,12.8,13.5,0,0.0,0.7,5.5,1.1
+347,Designers,27-1020,Summary,616.3,635.8,0.4,0.4,19.5,3.2,59.3
+348,Commercial and industrial designers,27-1021,Line item,39.7,41.4,0,0.0,1.8,4.4,3.9
+349,Fashion designers,27-1022,Line item,23.8,24.4,0,0.0,0.6,2.6,2.3
+350,Floral designers,27-1023,Line item,55,51.4,0,0.0,-3.5,-6.4,4.5
+351,Graphic designers,27-1024,Line item,266.3,277.4,0.2,0.2,11.1,4.2,26
+352,Interior designers,27-1025,Line item,66.5,69.5,0,0.0,2.9,4.4,6.5
+353,Merchandise displayers and window trimmers,27-1026,Line item,141.4,146.0,0.1,0.1,4.6,3.2,13.6
+354,Set and exhibit designers,27-1027,Line item,14.6,16.1,0,0.0,1.5,10.3,1.6
+355,"Designers, all other",27-1029,Line item,9,9.5,0,0.0,0.5,5.8,0.9
+356,"Entertainers and performers, sports and related workers",27-2000,Summary,801.9,881.6,0.5,0.5,79.6,9.9,99.8
+357,"Actors, producers, and directors",27-2010,Summary,198.5,222.4,0.1,0.1,23.8,12,21.4
+358,Actors,27-2011,Line item,63.8,71.2,0,0.0,7.4,11.6,7.4
+359,Producers and directors,27-2012,Line item,134.7,151.2,0.1,0.1,16.5,12.2,14.1
+360,"Athletes, coaches, umpires, and related workers",27-2020,Summary,309,347.2,0.2,0.2,38.2,12.3,46.9
+361,Athletes and sports competitors,27-2021,Line item,11.8,12.7,0,0.0,0.9,7.5,1.7
+362,Coaches and scouts,27-2022,Line item,276.1,311.7,0.2,0.2,35.7,12.9,42.1
+363,"Umpires, referees, and other sports officials",27-2023,Line item,21.1,22.7,0,0.0,1.6,7.6,3
+364,Dancers and choreographers,27-2030,Summary,20.4,21.2,0,0.0,0.8,4,2.8
+365,Dancers,27-2031,Line item,13.5,14.1,0,0.0,0.6,4.6,1.9
+366,Choreographers,27-2032,Line item,6.9,7.1,0,0.0,0.2,2.8,0.9
+367,"Musicians, singers, and related workers",27-2040,Summary,247.3,261.9,0.2,0.2,14.7,5.9,25.5
+368,Music directors and composers,27-2041,Line item,74.8,79.1,0,0.0,4.3,5.7,7.7
+369,Musicians and singers,27-2042,Line item,172.4,182.8,0.1,0.1,10.4,6,17.8
+370,"Entertainers and performers, sports and related workers, all other",27-2099,Line item,26.7,28.9,0,0.0,2.2,8.1,3.2
+371,Media and communication workers,27-3000,Summary,774.8,818.0,0.5,0.5,43.2,5.6,78.2
+372,Announcers,27-3010,Summary,52.7,48.2,0,0.0,-4.5,-8.5,4.3
+373,Radio and television announcers,27-3011,Line item,41.3,36.5,0,0.0,-4.8,-11.6,3.2
+374,Public address system and other announcers,27-3012,Line item,11.4,11.7,0,0.0,0.3,2.5,1.1
+375,"News analysts, reporters and correspondents",27-3020,Summary,50.4,45.9,0,0.0,-4.5,-8.9,4.2
+376,Broadcast news analysts,27-3021,Line item,5.7,5.6,0,0.0,0,-0.4,0.5
+377,Reporters and correspondents,27-3022,Line item,44.7,40.2,0,0.0,-4.5,-10,3.7
+378,Public relations specialists,27-3031,Line item,259.6,282.6,0.2,0.2,22.9,8.8,28.2
+379,Writers and editors,27-3040,Summary,311,324.9,0.2,0.2,13.9,4.5,30.3
+380,Editors,27-3041,Line item,127.4,125.6,0.1,0.1,-1.8,-1.4,12
+381,Technical writers,27-3042,Line item,52.4,58.1,0,0.0,5.7,11,5.7
+382,Writers and authors,27-3043,Line item,131.2,141.2,0.1,0.1,10,7.6,12.6
+383,Miscellaneous media and communication workers,27-3090,Summary,101.1,116.4,0.1,0.1,15.3,15.1,11.2
+384,Interpreters and translators,27-3091,Line item,68.2,80.3,0,0.0,12.1,17.7,7.8
+385,"Media and communication workers, all other",27-3099,Line item,32.9,36.2,0,0.0,3.3,9.9,3.4
+386,Media and communication equipment workers,27-4000,Summary,362.5,374.1,0.2,0.2,11.6,3.2,32.7
+387,Broadcast and sound engineering technicians and radio operators,27-4010,Summary,135.3,146.0,0.1,0.1,10.7,7.9,13.7
+388,Audio and video equipment technicians,27-4011,Line item,83.3,94.0,0.1,0.1,10.7,12.9,9
+389,Broadcast technicians,27-4012,Line item,34,32.9,0,0.0,-1.1,-3.2,2.9
+390,Radio operators,27-4013,Line item,0.9,0.9,0,0.0,0,-1,0.1
+391,Sound engineering technicians,27-4014,Line item,17,18.1,0,0.0,1.1,6.3,1.7
+392,Photographers,27-4021,Line item,147.3,139.0,0.1,0.1,-8.3,-5.6,10.3
+393,"Television, video, and motion picture camera operators and editors",27-4030,Summary,59.3,66.9,0,0.0,7.6,12.7,6.6
+394,"Camera operators, television, video, and motion picture",27-4031,Line item,25.1,26.9,0,0.0,1.8,7,2.6
+395,Film and video editors,27-4032,Line item,34.2,40.0,0,0.0,5.8,17,4
+396,"Media and communication equipment workers, all other",27-4099,Line item,20.6,22.2,0,0.0,1.6,7.9,2.1
+397,Healthcare practitioners and technical occupations,29-0000,Summary,8751.5,10088.1,5.6,6.0,1336.6,15.3,625.1
+398,Health diagnosing and treating practitioners,29-1000,Summary,5485.4,6380.0,3.5,3.8,894.6,16.3,355.8
+399,Chiropractors,29-1011,Line item,47.4,53.3,0,0.0,5.9,12.5,1.8
+400,Dentists,29-1020,Summary,153.5,182.8,0.1,0.1,29.3,19.1,7.3
+401,"Dentists, general",29-1021,Line item,132.8,158.5,0.1,0.1,25.7,19.4,6.4
+402,Oral and maxillofacial surgeons,29-1022,Line item,6.8,8.1,0,0.0,1.3,19.1,0.3
+403,Orthodontists,29-1023,Line item,6.6,7.8,0,0.0,1.3,19.3,0.3
+404,Prosthodontists,29-1024,Line item,0.9,1.1,0,0.0,0.2,19.1,0
+405,"Dentists, all other specialists",29-1029,Line item,6.4,7.3,0,0.0,0.9,13.3,0.3
+406,Dietitians and nutritionists,29-1031,Line item,68,77.9,0,0.0,9.9,14.6,5.4
+407,Optometrists,29-1041,Line item,40.2,47.4,0,0.0,7.2,17.9,2
+408,Pharmacists,29-1051,Line item,312.5,329.9,0.2,0.2,17.4,5.6,15.3
+409,Physicians and surgeons,29-1060,Summary,713.8,805.2,0.5,0.5,91.4,12.8,28.6
+410,Anesthesiologists,29-1061,Line item,33,38.1,0,0.0,5.1,15.4,1.4
+411,Family and general practitioners,29-1062,Line item,134.8,154.1,0.1,0.1,19.2,14.3,5.6
+412,"Internists, general",29-1063,Line item,49.8,57.0,0,0.0,7.3,14.6,2.1
+413,Obstetricians and gynecologists,29-1064,Line item,21.7,25.0,0,0.0,3.4,15.5,0.9
+414,"Pediatricians, general",29-1065,Line item,29.6,34.1,0,0.0,4.6,15.4,1.3
+415,Psychiatrists,29-1066,Line item,27.5,30.6,0,0.0,3.1,11.2,1.1
+416,Surgeons,29-1067,Line item,45,51.5,0,0.0,6.5,14.4,1.9
+417,"Physicians and surgeons, all other",29-1069,Line item,372.4,414.7,0.2,0.2,42.3,11.4,14.3
+418,Physician assistants,29-1071,Line item,106.2,145.9,0.1,0.1,39.6,37.3,10.6
+419,Podiatrists,29-1081,Line item,11,12.2,0,0.0,1.1,10.3,0.7
+420,Therapists,29-1120,Summary,723,888.0,0.5,0.5,165,22.8,53.3
+421,Occupational therapists,29-1122,Line item,130.4,161.4,0.1,0.1,31,23.8,10.2
+422,Physical therapists,29-1123,Line item,239.8,306.9,0.2,0.2,67.1,28,17.7
+423,Radiation therapists,29-1124,Line item,19.1,21.5,0,0.0,2.4,12.8,1.2
+424,Recreational therapists,29-1125,Line item,19.2,20.5,0,0.0,1.3,6.5,1.2
+425,Respiratory therapists,29-1126,Line item,130.2,160.6,0.1,0.1,30.5,23.4,9.8
+426,Speech-language pathologists,29-1127,Line item,145.1,171.0,0.1,0.1,25.9,17.8,10.4
+427,Exercise physiologists,29-1128,Line item,15.1,17.1,0,0.0,2,13.1,1.1
+428,"Therapists, all other",29-1129,Line item,24.1,28.9,0,0.0,4.8,19.9,1.9
+429,Veterinarians,29-1131,Line item,79.6,94.6,0.1,0.1,15,18.8,4.5
+430,Registered nurses,29-1141,Line item,2955.2,3393.2,1.9,2.0,438.1,14.8,203.7
+431,Nurse anesthetists,29-1151,Line item,41.8,48.6,0,0.0,6.8,16.2,2.8
+432,Nurse midwives,29-1161,Line item,6.5,7.8,0,0.0,1.3,20.7,0.5
+433,Nurse practitioners,29-1171,Line item,155.5,211.6,0.1,0.1,56.1,36.1,14.4
+434,Audiologists,29-1181,Line item,14.8,17.8,0,0.0,3.1,20.7,1
+435,"Health diagnosing and treating practitioners, all other",29-1199,Line item,56.4,63.9,0,0.0,7.5,13.3,3.8
+436,Health technologists and technicians,29-2000,Summary,3093.5,3514.6,2,2.1,421.1,13.6,258.1
+437,Clinical laboratory technologists and technicians,29-2010,Summary,335.7,378.4,0.2,0.2,42.7,12.7,25.9
+438,Medical and clinical laboratory technologists,29-2011,Line item,171.4,191.2,0.1,0.1,19.8,11.5,12.9
+439,Medical and clinical laboratory technicians,29-2012,Line item,164.2,187.2,0.1,0.1,22.9,14,12.9
+440,Dental hygienists,29-2021,Line item,207.9,248.9,0.1,0.1,40.9,19.7,17.5
+441,Diagnostic related technologists and technicians,29-2030,Summary,384.1,437.5,0.2,0.3,53.4,13.9,26.2
+442,Cardiovascular technologists and technicians,29-2031,Line item,55,60.5,0,0.0,5.5,9.9,3.5
+443,Diagnostic medical sonographers,29-2032,Line item,67.3,82.9,0,0.0,15.6,23.2,5.4
+444,Nuclear medicine technologists,29-2033,Line item,20.1,22.1,0,0.0,2,9.8,1.3
+445,Radiologic technologists,29-2034,Line item,205.2,230.5,0.1,0.1,25.3,12.3,13.6
+446,Magnetic resonance imaging technologists,29-2035,Line item,36.6,41.5,0,0.0,5,13.7,2.5
+447,Emergency medical technicians and paramedics,29-2041,Line item,248,285.4,0.2,0.2,37.4,15.1,19.4
+448,Health practitioner support technologists and technicians,29-2050,Summary,767,857.2,0.5,0.5,90.2,11.8,71.4
+449,Dietetic technicians,29-2051,Line item,33.4,36.5,0,0.0,3.1,9.3,3
+450,Pharmacy technicians,29-2052,Line item,402.5,450.1,0.3,0.3,47.6,11.8,37.5
+451,Psychiatric technicians,29-2053,Line item,66.1,70.0,0,0.0,3.9,5.9,5.6
+452,Respiratory therapy technicians,29-2054,Line item,10.8,4.7,0,0.0,-6.1,-56.3,0
+453,Surgical technologists,29-2055,Line item,107.7,120.3,0.1,0.1,12.6,11.7,10
+454,Veterinary technologists and technicians,29-2056,Line item,102,122.4,0.1,0.1,20.4,20,10.7
+455,Ophthalmic medical technicians,29-2057,Line item,44.5,53.2,0,0.0,8.7,19.5,4.6
+456,Licensed practical and licensed vocational nurses,29-2061,Line item,724.5,813.4,0.5,0.5,88.9,12.3,62.7
+457,Medical records and health information technicians,29-2071,Line item,206.3,234.1,0.1,0.1,27.8,13.5,15.8
+458,"Opticians, dispensing",29-2081,Line item,77.6,89.3,0,0.1,11.6,15,7
+459,Miscellaneous health technologists and technicians,29-2090,Summary,142.4,170.6,0.1,0.1,28.2,19.8,12.3
+460,Orthotists and prosthetists,29-2091,Line item,7.8,9.5,0,0.0,1.7,22.2,0.7
+461,Hearing aid specialists,29-2092,Line item,6.8,8.2,0,0.0,1.3,19.5,0.6
+462,"Health technologists and technicians, all other",29-2099,Line item,127.8,152.9,0.1,0.1,25.1,19.7,11
+463,Other healthcare practitioners and technical occupations,29-9000,Summary,172.6,193.5,0.1,0.1,20.9,12.1,11.2
+464,Occupational health and safety specialists and technicians,29-9010,Summary,101.8,110.4,0.1,0.1,8.6,8.5,6.1
+465,Occupational health and safety specialists,29-9011,Line item,83.7,90.5,0.1,0.1,6.8,8.1,5
+466,Occupational health and safety technicians,29-9012,Line item,18.1,19.9,0,0.0,1.8,10.1,1.1
+467,Miscellaneous health practitioners and technical workers,29-9090,Summary,70.8,83.1,0,0.0,12.2,17.3,5
+468,Athletic trainers,29-9091,Line item,27.8,34.1,0,0.0,6.3,22.8,2.2
+469,Genetic counselors,29-9092,Line item,3.1,4.0,0,0.0,0.9,29,0.3
+470,"Healthcare practitioners and technical workers, all other",29-9099,Line item,40,45.0,0,0.0,5,12.6,2.6
+471,Healthcare support occupations,31-0000,Summary,4315.6,5335.2,2.8,3.2,1019.6,23.6,638.4
+472,"Nursing, psychiatric, and home health aides",31-1000,Summary,2549.4,3162.4,1.6,1.9,613,24,379.1
+473,Home health aides,31-1011,Line item,911.5,1342.7,0.6,0.8,431.2,47.3,168.6
+474,Psychiatric aides,31-1013,Line item,73.6,77.7,0,0.0,4.1,5.5,8.8
+475,Nursing assistants,31-1014,Line item,1510.3,1683.7,1,1.0,173.4,11.5,195.1
+476,Orderlies,31-1015,Line item,54,58.4,0,0.0,4.4,8.1,6.7
+477,Occupational therapy and physical therapist assistants and aides,31-2000,Summary,187.1,243.0,0.1,0.1,55.9,29.9,31.1
+478,Occupational therapy assistants and aides,31-2010,Summary,46.8,60.0,0,0.0,13.2,28.3,7.8
+479,Occupational therapy assistants,31-2011,Line item,39.3,50.7,0,0.0,11.4,28.9,6.6
+480,Occupational therapy aides,31-2012,Line item,7.5,9.3,0,0.0,1.8,24.7,1.2
+481,Physical therapist assistants and aides,31-2020,Summary,140.3,183.0,0.1,0.1,42.7,30.4,23.3
+482,Physical therapist assistants,31-2021,Line item,88.3,115.8,0.1,0.1,27.4,31,14.7
+483,Physical therapist aides,31-2022,Line item,52,67.2,0,0.0,15.3,29.4,8.5
+484,Other healthcare support occupations,31-9000,Summary,1579.1,1929.8,1,1.2,350.7,22.2,228.2
+485,Massage therapists,31-9011,Line item,160.3,202.4,0.1,0.1,42.1,26.3,22.6
+486,Miscellaneous healthcare support occupations,31-9090,Summary,1418.8,1727.4,0.9,1.0,308.6,21.7,205.6
+487,Dental assistants,31-9091,Line item,332,396.6,0.2,0.2,64.6,19.5,45.9
+488,Medical assistants,31-9092,Line item,634.4,818.4,0.4,0.5,183.9,29,94.9
+489,Medical equipment preparers,31-9093,Line item,54.2,60.2,0,0.0,6,11.1,7.6
+490,Medical transcriptionists,31-9094,Line item,57.4,55.5,0,0.0,-1.9,-3.4,6.4
+491,Pharmacy aides,31-9095,Line item,36.9,35.2,0,0.0,-1.8,-4.8,4.7
+492,Veterinary assistants and laboratory animal caretakers,31-9096,Line item,83.8,100.0,0.1,0.1,16.3,19.4,15.5
+493,Phlebotomists,31-9097,Line item,122.7,152.8,0.1,0.1,30.1,24.5,16.9
+494,"Healthcare support workers, all other",31-9099,Line item,97.3,108.7,0.1,0.1,11.4,11.7,13.7
+495,Protective service occupations,33-0000,Summary,3505.6,3663.8,2.2,2.2,158.2,4.5,397.2
+496,Supervisors of protective service workers,33-1000,Summary,284.2,295.3,0.2,0.2,11.1,3.9,21.6
+497,First-line supervisors of law enforcement workers,33-1010,Summary,149.9,153.3,0.1,0.1,3.4,2.3,9.5
+498,First-line supervisors of correctional officers,33-1011,Line item,45.2,41.7,0,0.0,-3.5,-7.8,2.5
+499,First-line supervisors of police and detectives,33-1012,Line item,104.7,111.6,0.1,0.1,6.9,6.6,7.1
+500,First-line supervisors of fire fighting and prevention workers,33-1021,Line item,59.1,63.3,0,0.0,4.2,7.2,4.4
+501,"First-line supervisors of protective service workers, all other",33-1099,Line item,75.2,78.7,0,0.0,3.5,4.6,7.7
+502,Fire fighting and prevention workers,33-2000,Summary,341.4,366.3,0.2,0.2,24.9,7.3,25.9
+503,Firefighters,33-2011,Line item,327.3,350.9,0.2,0.2,23.5,7.2,24.3
+504,Fire inspectors,33-2020,Summary,14.1,15.4,0,0.0,1.4,9.7,1.6
+505,Fire inspectors and investigators,33-2021,Line item,12.3,13.2,0,0.0,0.9,7.3,1.4
+506,Forest fire inspectors and prevention specialists,33-2022,Line item,1.7,2.2,0,0.0,0.5,26.6,0.2
+507,Law enforcement workers,33-3000,Summary,1285,1300.1,0.8,0.8,15.2,1.2,91
+508,"Bailiffs, correctional officers, and jailers",33-3010,Summary,468.6,433.7,0.3,0.3,-34.9,-7.4,32.7
+509,Bailiffs,33-3011,Line item,18.6,18.2,0,0.0,-0.4,-2.1,1.4
+510,Correctional officers and jailers,33-3012,Line item,450,415.5,0.3,0.2,-34.5,-7.7,31.3
+511,Detectives and criminal investigators,33-3021,Line item,110.9,115.9,0.1,0.1,5,4.5,7.5
+512,Fish and game wardens,33-3031,Line item,7,7.3,0,0.0,0.3,4.3,0.7
+513,Parking enforcement workers,33-3041,Line item,9.4,6.1,0,0.0,-3.3,-35.3,0.4
+514,Police officers,33-3050,Summary,689.1,737.2,0.4,0.4,48.1,7,49.8
+515,Police and sheriff's patrol officers,33-3051,Line item,684.2,731.9,0.4,0.4,47.8,7,49.5
+516,Transit and railroad police,33-3052,Line item,4.9,5.3,0,0.0,0.3,6.3,0.4
+517,Other protective service workers,33-9000,Summary,1595,1702.1,1,1.0,107,6.7,258.6
+518,Animal control workers,33-9011,Line item,13.4,14.6,0,0.0,1.1,8.5,1.6
+519,Private detectives and investigators,33-9021,Line item,41.4,45.8,0,0.0,4.4,10.6,4.5
+520,Security guards and gaming surveillance officers,33-9030,Summary,1133.9,1205.0,0.7,0.7,71,6.3,158.9
+521,Gaming surveillance officers and gaming investigators,33-9031,Line item,10.7,11.1,0,0.0,0.4,3.5,1.4
+522,Security guards,33-9032,Line item,1123.3,1193.9,0.7,0.7,70.6,6.3,157.5
+523,Miscellaneous protective service workers,33-9090,Summary,406.2,436.7,0.3,0.3,30.5,7.5,93.6
+524,Crossing guards,33-9091,Line item,74.3,80.6,0,0.0,6.3,8.5,14.5
+525,"Lifeguards, ski patrol, and other recreational protective service workers",33-9092,Line item,152.1,163.7,0.1,0.1,11.7,7.7,39.7
+526,Transportation security screeners,33-9093,Line item,46.1,47.3,0,0.0,1.2,2.6,4.2
+527,"Protective service workers, all other",33-9099,Line item,133.8,145.1,0.1,0.1,11.3,8.4,35.2
+528,Food preparation and serving related occupations,35-0000,Summary,13206.1,14438.1,8.5,8.6,1232,9.3,2469.9
+529,Supervisors of food preparation and serving workers,35-1000,Summary,1083.4,1185.1,0.7,0.7,101.7,9.4,166.6
+530,Chefs and head cooks,35-1011,Line item,146.5,160.6,0.1,0.1,14.1,9.6,20.3
+531,First-line supervisors of food preparation and serving workers,35-1012,Line item,936.9,1024.5,0.6,0.6,87.6,9.3,146.3
+532,Cooks and food preparation workers,35-2000,Summary,3274.1,3490.3,2.1,2.1,216.2,6.6,515.7
+533,Cooks,35-2010,Summary,2403,2550.6,1.5,1.5,147.6,6.1,358
+534,"Cooks, fast food",35-2011,Line item,517.6,490.5,0.3,0.3,-27.1,-5.2,67.2
+535,"Cooks, institution and cafeteria",35-2012,Line item,424.8,457.4,0.3,0.3,32.6,7.7,64.4
+536,"Cooks, private household",35-2013,Line item,25,26.3,0,0.0,1.4,5.5,3.7
+537,"Cooks, restaurant",35-2014,Line item,1231.9,1377.2,0.8,0.8,145.3,11.8,195.3
+538,"Cooks, short order",35-2015,Line item,185.9,179.7,0.1,0.1,-6.2,-3.3,24.7
+539,"Cooks, all other",35-2019,Line item,17.8,19.4,0,0.0,1.6,9,2.7
+540,Food preparation workers,35-2021,Line item,871.1,939.7,0.6,0.6,68.6,7.9,157.7
+541,Food and beverage serving workers,35-3000,Summary,7432.9,8260.4,4.8,4.9,827.6,11.1,1517.2
+542,Bartenders,35-3011,Line item,611.2,626.3,0.4,0.4,15.1,2.5,102.3
+543,Fast food and counter workers,35-3020,Summary,3957.5,4560.4,2.5,2.7,603,15.2,849.1
+544,"Combined food preparation and serving workers, including fast food",35-3021,Line item,3452.2,4032.1,2.2,2.4,579.9,16.8,736
+545,"Counter attendants, cafeteria, food concession, and coffee shop",35-3022,Line item,505.2,528.3,0.3,0.3,23.1,4.6,113.2
+546,Waiters and waitresses,35-3031,Line item,2600.5,2783.0,1.7,1.7,182.5,7,522.7
+547,"Food servers, nonrestaurant",35-3041,Line item,263.8,290.7,0.2,0.2,26.9,10.2,43.1
+548,Other food preparation and serving related workers,35-9000,Summary,1415.7,1502.3,0.9,0.9,86.6,6.1,270.3
+549,Dining room and cafeteria attendants and bartender helpers,35-9011,Line item,431.2,461.7,0.3,0.3,30.5,7.1,78.2
+550,Dishwashers,35-9021,Line item,514.3,536.6,0.3,0.3,22.2,4.3,83
+551,"Hosts and hostesses, restaurant, lounge, and coffee shop",35-9031,Line item,409.2,437.5,0.3,0.3,28.3,6.9,97.9
+552,"Food preparation and serving related workers, all other",35-9099,Line item,60.9,66.5,0,0.0,5.6,9.3,11.3
+553,Building and grounds cleaning and maintenance occupations,37-0000,Summary,5654.1,6177.9,3.6,3.7,523.8,9.3,788.4
+554,Supervisors of building and grounds cleaning and maintenance workers,37-1000,Summary,421.8,466.3,0.3,0.3,44.5,10.5,50.3
+555,First-line supervisors of housekeeping and janitorial workers,37-1011,Line item,243.5,267.6,0.2,0.2,24.1,9.9,30.8
+556,"First-line supervisors of landscaping, lawn service, and groundskeeping workers",37-1012,Line item,178.3,198.6,0.1,0.1,20.3,11.4,19.5
+557,Building cleaning and pest control workers,37-2000,Summary,3923,4255.9,2.5,2.5,333,8.5,560.2
+558,Building cleaning workers,37-2010,Summary,3844,4170.5,2.5,2.5,326.5,8.5,548.5
+559,"Janitors and cleaners, except maids and housekeeping cleaners",37-2011,Line item,2384.6,2621.2,1.5,1.6,236.5,9.9,344.1
+560,Maids and housekeeping cleaners,37-2012,Line item,1443.2,1531.0,0.9,0.9,87.9,6.1,202
+561,"Building cleaning workers, all other",37-2019,Line item,16.2,18.3,0,0.0,2.1,12.8,2.4
+562,Pest control workers,37-2021,Line item,78.9,85.4,0.1,0.1,6.5,8.2,11.7
+563,Grounds maintenance workers,37-3000,Summary,1309.3,1455.6,0.8,0.9,146.3,11.2,177.9
+564,Landscaping and groundskeeping workers,37-3011,Line item,1197.9,1333.1,0.8,0.8,135.2,11.3,163
+565,"Pesticide handlers, sprayers, and applicators, vegetation",37-3012,Line item,38,41.0,0,0.0,3,7.8,5
+566,Tree trimmers and pruners,37-3013,Line item,54.5,60.9,0,0.0,6.4,11.7,7.5
+567,"Grounds maintenance workers, all other",37-3019,Line item,18.9,20.6,0,0.0,1.7,9.2,2.5
+568,Personal care and service occupations,39-0000,Summary,6419.7,7647.4,4.1,4.6,1227.6,19.1,1140.9
+569,Supervisors of personal care and service workers,39-1000,Summary,326.7,369.1,0.2,0.2,42.4,13,39.7
+570,First-line supervisors of gaming workers,39-1010,Summary,50.6,52.6,0,0.0,2.1,4.1,8.2
+571,Gaming supervisors,39-1011,Line item,38.5,40.0,0,0.0,1.5,3.9,6.2
+572,Slot supervisors,39-1012,Line item,12.1,12.6,0,0.0,0.6,4.6,2
+573,First-line supervisors of personal service workers,39-1021,Line item,276.1,316.5,0.2,0.2,40.3,14.6,31.6
+574,Animal care and service workers,39-2000,Summary,296.4,361.0,0.2,0.2,64.6,21.8,53.2
+575,Animal trainers,39-2011,Line item,54.9,61.0,0,0.0,6.1,11.2,7
+576,Nonfarm animal caretakers,39-2021,Line item,241.5,300.0,0.2,0.2,58.5,24.2,46.2
+577,Entertainment attendants and related workers,39-3000,Summary,584.3,625.9,0.4,0.4,41.7,7.1,132.3
+578,Gaming services workers,39-3010,Summary,121,122.7,0.1,0.1,1.7,1.4,18.1
+579,Gaming dealers,39-3011,Line item,96.9,98.0,0.1,0.1,1.1,1.2,14.5
+580,Gaming and sports book writers and runners,39-3012,Line item,11.7,12.1,0,0.0,0.4,3.8,1.8
+581,"Gaming service workers, all other",39-3019,Line item,12.5,12.6,0,0.0,0.1,0.7,1.9
+582,Motion picture projectionists,39-3021,Line item,5.8,5.2,0,0.0,-0.6,-9.7,0.6
+583,"Ushers, lobby attendants, and ticket takers",39-3031,Line item,117.7,126.4,0.1,0.1,8.8,7.5,30.5
+584,Miscellaneous entertainment attendants and related workers,39-3090,Summary,339.8,371.6,0.2,0.2,31.8,9.4,83
+585,Amusement and recreation attendants,39-3091,Line item,300,327.9,0.2,0.2,27.8,9.3,73.2
+586,Costume attendants,39-3092,Line item,6.6,7.3,0,0.0,0.6,9.7,1.6
+587,"Locker room, coatroom, and dressing room attendants",39-3093,Line item,18.6,20.3,0,0.0,1.6,8.7,4.5
+588,"Entertainment attendants and related workers, all other",39-3099,Line item,14.6,16.2,0,0.0,1.7,11.4,3.6
+589,Funeral service workers,39-4000,Summary,68.5,70.6,0,0.0,2.1,3,9.8
+590,Embalmers,39-4011,Line item,3.7,3.7,0,0.0,0,-0.8,0.6
+591,Funeral attendants,39-4021,Line item,36.1,37.0,0,0.0,1,2.7,5.6
+592,"Morticians, undertakers, and funeral directors",39-4031,Line item,28.7,29.8,0,0.0,1.1,3.9,3.7
+593,Personal appearance workers,39-5000,Summary,887.3,1003.6,0.6,0.6,116.3,13.1,119
+594,"Barbers, hairdressers, hairstylists and cosmetologists",39-5010,Summary,673.7,761.4,0.4,0.5,87.6,13,90.9
+595,Barbers,39-5011,Line item,56.4,64.0,0,0.0,7.6,13.4,6.2
+596,"Hairdressers, hairstylists, and cosmetologists",39-5012,Line item,617.3,697.4,0.4,0.4,80.1,13,84.7
+597,Miscellaneous personal appearance workers,39-5090,Summary,213.6,242.2,0.1,0.1,28.6,13.4,28.2
+598,"Makeup artists, theatrical and performance",39-5091,Line item,4.8,5.4,0,0.0,0.6,12.5,0.6
+599,Manicurists and pedicurists,39-5092,Line item,126.3,143.0,0.1,0.1,16.7,13.2,16.6
+600,Shampooers,39-5093,Line item,21.2,24.1,0,0.0,2.8,13.4,2.8
+601,Skincare specialists,39-5094,Line item,61.3,69.7,0,0.0,8.5,13.8,8.1
+602,"Baggage porters, bellhops, and concierges",39-6000,Summary,77.6,85.0,0,0.1,7.4,9.5,11.8
+603,Baggage porters and bellhops,39-6011,Line item,45.1,48.8,0,0.0,3.7,8.2,6.7
+604,Concierges,39-6012,Line item,32.5,36.2,0,0.0,3.7,11.3,5
+605,Tour and travel guides,39-7000,Summary,49.4,54.3,0,0.0,4.9,9.9,9.4
+606,Tour guides and escorts,39-7011,Line item,45.8,50.6,0,0.0,4.7,10.3,8.7
+607,Travel guides,39-7012,Line item,3.6,3.8,0,0.0,0.2,4.9,0.6
+608,Other personal care and service workers,39-9000,Summary,4129.5,5077.9,2.6,3.0,948.4,23,765.7
+609,Childcare workers,39-9011,Line item,1216.6,1300.9,0.8,0.8,84.3,6.9,189.1
+610,Personal care aides,39-9021,Line item,2016.1,2793.8,1.3,1.7,777.6,38.6,414.3
+611,Recreation and fitness workers,39-9030,Summary,689.1,753.2,0.4,0.4,64,9.3,125.7
+612,Fitness trainers and aerobics instructors,39-9031,Line item,299.2,329.2,0.2,0.2,30.1,10.1,55
+613,Recreation workers,39-9032,Line item,390,423.9,0.2,0.3,34,8.7,70.7
+614,Residential advisors,39-9041,Line item,118.8,134.1,0.1,0.1,15.3,12.9,22.5
+615,"Personal care and service workers, all other",39-9099,Line item,88.9,95.9,0.1,0.1,7,7.9,14.1
+616,Sales and related occupations,41-0000,Summary,15747.8,16206.5,10.1,9.7,458.7,2.9,2201.1
+617,Supervisors of sales workers,41-1000,Summary,1937.6,2015.3,1.2,1.2,77.7,4,207.4
+618,First-line supervisors of retail sales workers,41-1011,Line item,1532.4,1590.1,1,0.9,57.7,3.8,168.5
+619,First-line supervisors of non-retail sales workers,41-1012,Line item,405.2,425.2,0.3,0.3,20,4.9,39
+620,Retail sales workers,41-2000,Summary,8891.5,8978.8,5.7,5.4,87.3,1,1423.1
+621,Cashiers,41-2010,Summary,3578.9,3548.9,2.3,2.1,-30,-0.8,658.2
+622,Cashiers,41-2011,Line item,3555.5,3524.9,2.3,2.1,-30.6,-0.9,653.7
+623,Gaming change persons and booth cashiers,41-2012,Line item,23.4,24.0,0,0.0,0.6,2.6,4.5
+624,Counter and rental clerks and parts salespersons,41-2020,Summary,710.1,747.7,0.5,0.4,37.7,5.3,94.7
+625,Counter and rental clerks,41-2021,Line item,458.2,483.2,0.3,0.3,25,5.5,61.8
+626,Parts salespersons,41-2022,Line item,251.9,264.5,0.2,0.2,12.7,5,32.9
+627,Retail salespersons,41-2031,Line item,4602.5,4682.1,2.9,2.8,79.7,1.7,670.3
+628,"Sales representatives, services",41-3000,Summary,2091.8,2244.8,1.3,1.3,153,7.3,249.2
+629,Advertising sales agents,41-3011,Line item,149.9,144.5,0.1,0.1,-5.4,-3.6,17.7
+630,Insurance sales agents,41-3021,Line item,501.4,551.2,0.3,0.3,49.8,9.9,54.7
+631,"Securities, commodities, and financial services sales agents",41-3031,Line item,375.7,398.9,0.2,0.2,23.3,6.2,38
+632,Travel agents,41-3041,Line item,81.7,72.2,0.1,0.0,-9.5,-11.7,7.8
+633,"Sales representatives, services, all other",41-3099,Line item,983,1077.9,0.6,0.6,94.9,9.7,131
+634,"Sales representatives, wholesale and manufacturing",41-4000,Summary,1813.5,1907.6,1.2,1.1,94.1,5.2,195.4
+635,"Sales representatives, wholesale and manufacturing, technical and scientific products",41-4011,Line item,343.6,361.3,0.2,0.2,17.6,5.1,37
+636,"Sales representatives, wholesale and manufacturing, except technical and scientific products",41-4012,Line item,1469.9,1546.3,0.9,0.9,76.4,5.2,158.4
+637,Other sales and related workers,41-9000,Summary,1013.4,1060.0,0.6,0.6,46.5,4.6,125.9
+638,"Models, demonstrators, and product promoters",41-9010,Summary,99.5,105.7,0.1,0.1,6.2,6.2,17.9
+639,Demonstrators and product promoters,41-9011,Line item,94.7,100.9,0.1,0.1,6.2,6.6,17.1
+640,Models,41-9012,Line item,4.8,4.8,0,0.0,-0.1,-1.3,0.8
+641,Real estate brokers and sales agents,41-9020,Summary,444.1,469.0,0.3,0.3,24.9,5.6,43.7
+642,Real estate brokers,41-9021,Line item,95.3,100.0,0.1,0.1,4.7,4.9,9.3
+643,Real estate sales agents,41-9022,Line item,348.8,369.0,0.2,0.2,20.2,5.8,34.4
+644,Sales engineers,41-9031,Line item,74.9,80.1,0,0.0,5.2,6.9,8.3
+645,Telemarketers,41-9041,Line item,216.6,216.6,0.1,0.1,0,0,33.3
+646,Miscellaneous sales and related workers,41-9090,Summary,178.3,188.6,0.1,0.1,10.3,5.8,22.7
+647,"Door-to-door sales workers, news and street vendors, and related workers",41-9091,Line item,82.4,82.4,0.1,0.0,0.1,0.1,8.6
+648,"Sales and related workers, all other",41-9099,Line item,95.9,106.1,0.1,0.1,10.2,10.6,14.1
+649,Office and administrative support occupations,43-0000,Summary,23081.2,23230.8,14.8,13.9,149.6,0.6,2596.4
+650,Supervisors of office and administrative support workers,43-1000,Summary,1506.3,1557.4,1,0.9,51.2,3.4,153
+651,First-line supervisors of office and administrative support workers,43-1011,Line item,1506.3,1557.4,1,0.9,51.2,3.4,153
+652,Communications equipment operators,43-2000,Summary,104.7,84.4,0.1,0.1,-20.3,-19.4,10.2
+653,"Switchboard operators, including answering service",43-2011,Line item,93.2,74.7,0.1,0.0,-18.5,-19.9,9
+654,Telephone operators,43-2021,Line item,9.1,7.0,0,0.0,-2,-22.6,0.9
+655,"Communications equipment operators, all other",43-2099,Line item,2.4,2.6,0,0.0,0.2,10.4,0.3
+656,Financial clerks,43-3000,Summary,3336.6,3330.4,2.1,2.0,-6.3,-0.2,358.5
+657,Bill and account collectors,43-3011,Line item,305.7,296.7,0.2,0.2,-9.1,-3,30.2
+658,Billing and posting clerks,43-3021,Line item,501,571.6,0.3,0.3,70.7,14.1,59.5
+659,"Bookkeeping, accounting, and auditing clerks",43-3031,Line item,1730.5,1705.3,1.1,1.0,-25.2,-1.5,186.4
+660,Gaming cage workers,43-3041,Line item,19,19.3,0,0.0,0.3,1.4,3
+661,Payroll and timekeeping clerks,43-3051,Line item,166.3,164.7,0.1,0.1,-1.6,-0.9,16.1
+662,Procurement clerks,43-3061,Line item,74.9,71.7,0,0.0,-3.2,-4.3,7.5
+663,Tellers,43-3071,Line item,502.7,460.9,0.3,0.3,-41.8,-8.3,51.5
+664,"Financial clerks, all other",43-3099,Line item,36.6,40.2,0,0.0,3.6,9.9,4.3
+665,Information and record clerks,43-4000,Summary,5830,6137.9,3.7,3.7,307.9,5.3,760
+666,Brokerage clerks,43-4011,Line item,60.4,63.4,0,0.0,3,5,6.6
+667,Correspondence clerks,43-4021,Line item,7.2,7.4,0,0.0,0.2,2.1,0.8
+668,"Court, municipal, and license clerks",43-4031,Line item,135.5,144.2,0.1,0.1,8.8,6.5,12.6
+669,"Credit authorizers, checkers, and clerks",43-4041,Line item,38.5,37.4,0,0.0,-1.1,-2.8,3.7
+670,Customer service representatives,43-4051,Line item,2784.5,2920.8,1.8,1.7,136.3,4.9,373.5
+671,"Eligibility interviewers, government programs",43-4061,Line item,143.1,151.6,0.1,0.1,8.5,6,13.6
+672,File clerks,43-4071,Line item,135,121.0,0.1,0.1,-14,-10.4,14.2
+673,"Hotel, motel, and resort desk clerks",43-4081,Line item,252.6,263.8,0.2,0.2,11.2,4.4,40.9
+674,"Interviewers, except eligibility and loan",43-4111,Line item,194.7,205.7,0.1,0.1,11,5.7,24.3
+675,"Library assistants, clerical",43-4121,Line item,104.3,114.1,0.1,0.1,9.8,9.4,16.3
+676,Loan interviewers and clerks,43-4131,Line item,229.8,258.2,0.1,0.2,28.4,12.3,25.7
+677,New accounts clerks,43-4141,Line item,42,39.4,0,0.0,-2.6,-6.2,4
+678,Order clerks,43-4151,Line item,179,175.3,0.1,0.1,-3.7,-2.1,19.4
+679,"Human resources assistants, except payroll and timekeeping",43-4161,Line item,141.5,138.9,0.1,0.1,-2.6,-1.8,15.1
+680,Receptionists and information clerks,43-4171,Line item,1053.7,1149.2,0.7,0.7,95.5,9.1,151.1
+681,Reservation and transportation ticket agents and travel clerks,43-4181,Line item,150.1,155.8,0.1,0.1,5.6,3.8,16.3
+682,"Information and record clerks, all other",43-4199,Line item,178.1,191.7,0.1,0.1,13.6,7.6,21.9
+683,"Material recording, scheduling, dispatching, and distributing workers",43-5000,Summary,4117.5,4199.4,2.6,2.5,81.9,2,454.5
+684,Cargo and freight agents,43-5011,Line item,89.8,99.1,0.1,0.1,9.3,10.4,8.6
+685,Couriers and messengers,43-5021,Line item,95,105.9,0.1,0.1,10.9,11.5,10.1
+686,Dispatchers,43-5030,Summary,300.3,308.3,0.2,0.2,8,2.7,27.9
+687,"Police, fire, and ambulance dispatchers",43-5031,Line item,98.6,106.7,0.1,0.1,8.2,8.3,10
+688,"Dispatchers, except police, fire, and ambulance",43-5032,Line item,201.7,201.6,0.1,0.1,-0.1,-0.1,18
+689,"Meter readers, utilities",43-5041,Line item,34.8,33.2,0,0.0,-1.5,-4.4,2.3
+690,Postal service workers,43-5050,Summary,502.4,437.1,0.3,0.3,-65.3,-13,26.1
+691,Postal service clerks,43-5051,Line item,79,69.5,0.1,0.0,-9.5,-12.1,4.8
+692,Postal service mail carriers,43-5052,Line item,316.7,278.5,0.2,0.2,-38.2,-12.1,16.1
+693,"Postal service mail sorters, processors, and processing machine operators",43-5053,Line item,106.7,89.1,0.1,0.1,-17.5,-16.5,5.2
+694,"Production, planning, and expediting clerks",43-5061,Line item,329.4,347.4,0.2,0.2,18,5.5,35.5
+695,"Shipping, receiving, and traffic clerks",43-5071,Line item,681.4,681.5,0.4,0.4,0.1,0,67.2
+696,Stock clerks and order fillers,43-5081,Line item,2008.6,2109.6,1.3,1.3,100.9,5,269.2
+697,"Weighers, measurers, checkers, and samplers, recordkeeping",43-5111,Line item,75.9,77.3,0,0.0,1.4,1.8,7.6
+698,Secretaries and administrative assistants,43-6000,Summary,3990.4,3798.2,2.6,2.3,-192.2,-4.8,394.6
+699,Executive secretaries and executive administrative assistants,43-6011,Line item,685.3,566.2,0.4,0.3,-119.2,-17.4,54.6
+700,Legal secretaries,43-6012,Line item,194.7,157.5,0.1,0.1,-37.1,-19.1,15
+701,Medical secretaries,43-6013,Line item,574.2,703.2,0.4,0.4,129,22.5,80.8
+702,"Secretaries and administrative assistants, except legal, medical, and executive",43-6014,Line item,2536.2,2371.3,1.6,1.4,-164.9,-6.5,244.3
+703,Other office and administrative support workers,43-9000,Summary,4195.7,4123.2,2.7,2.5,-72.5,-1.7,465.6
+704,Computer operators,43-9011,Line item,51.5,39.7,0,0.0,-11.8,-22.8,3.4
+705,Data entry and information processing workers,43-9020,Summary,278.7,210.7,0.2,0.1,-68.1,-24.4,21.3
+706,Data entry keyers,43-9021,Line item,203.8,160.6,0.1,0.1,-43.3,-21.2,16.8
+707,Word processors and typists,43-9022,Line item,74.9,50.1,0,0.0,-24.8,-33.1,4.5
+708,Desktop publishers,43-9031,Line item,14.6,12.5,0,0.0,-2,-14,1.2
+709,Insurance claims and policy processing clerks,43-9041,Line item,308.5,342.6,0.2,0.2,34.1,11.1,35.6
+710,"Mail clerks and mail machine operators, except postal service",43-9051,Line item,95.5,88.4,0.1,0.1,-7.1,-7.4,9.4
+711,"Office clerks, general",43-9061,Line item,3117.7,3086.0,2,1.8,-31.8,-1,356.2
+712,"Office machine operators, except computer",43-9071,Line item,59.9,50.5,0,0.0,-9.4,-15.6,5.1
+713,Proofreaders and copy markers,43-9081,Line item,14.2,14.4,0,0.0,0.2,1.7,2.2
+714,Statistical assistants,43-9111,Line item,11.8,12.9,0,0.0,1.1,9.2,1.6
+715,"Office and administrative support workers, all other",43-9199,Line item,243.2,265.4,0.2,0.2,22.1,9.1,29.4
+716,"Farming, fishing, and forestry occupations",45-0000,Summary,1060.1,1056.7,0.7,0.6,-3.5,-0.3,154.3
+717,"Supervisors of farming, fishing, and forestry workers",45-1000,Summary,48.7,49.7,0,0.0,0.9,1.9,6.5
+718,"First-line supervisors of farming, fishing, and forestry workers",45-1011,Line item,48.7,49.7,0,0.0,0.9,1.9,6.5
+719,Agricultural workers,45-2000,Summary,914.8,914.7,0.6,0.5,0,0,136.7
+720,Agricultural inspectors,45-2011,Line item,15.6,16.3,0,0.0,0.7,4.6,2.2
+721,Animal breeders,45-2021,Line item,9,9.2,0,0.0,0.2,2,1.4
+722,"Graders and sorters, agricultural products",45-2041,Line item,42.9,42.5,0,0.0,-0.4,-0.9,5.7
+723,Miscellaneous agricultural workers,45-2090,Summary,847.3,846.7,0.5,0.5,-0.6,-0.1,127.5
+724,Agricultural equipment operators,45-2091,Line item,63.9,67.4,0,0.0,3.5,5.5,10.2
+725,"Farmworkers and laborers, crop, nursery, and greenhouse",45-2092,Line item,503.7,509.2,0.3,0.3,5.5,1.1,76.8
+726,"Farmworkers, farm, ranch, and aquacultural animals",45-2093,Line item,268.1,258.0,0.2,0.2,-10.1,-3.8,38.6
+727,"Agricultural workers, all other",45-2099,Line item,11.6,12.1,0,0.0,0.5,4.4,1.8
+728,Fishing and hunting workers,45-3000,Line item,27,29.9,0,0.0,2.9,10.8,3.1
+729,"Forest, conservation, and logging workers",45-4000,Summary,69.6,62.4,0,0.0,-7.3,-10.4,8
+730,Forest and conservation workers,45-4011,Line item,14.3,14.0,0,0.0,-0.3,-2.4,2.1
+731,Logging workers,45-4020,Summary,55.3,48.4,0,0.0,-6.9,-12.5,5.9
+732,Fallers,45-4021,Line item,7.5,6.3,0,0.0,-1.2,-16.2,0.8
+733,Logging equipment operators,45-4022,Line item,39.1,34.2,0,0.0,-4.9,-12.6,4.2
+734,Log graders and scalers,45-4023,Line item,4.2,4.1,0,0.0,-0.1,-3,0.5
+735,"Logging workers, all other",45-4029,Line item,4.5,3.9,0,0.0,-0.7,-14.7,0.5
+736,Construction and extraction occupations,47-0000,Summary,6812.5,7560.0,4.4,4.5,747.6,11,798.1
+737,Supervisors of construction and extraction workers,47-1000,Summary,602.5,678.3,0.4,0.4,75.8,12.6,68.5
+738,First-line supervisors of construction trades and extraction workers,47-1011,Line item,602.5,678.3,0.4,0.4,75.8,12.6,68.5
+739,Construction trades workers,47-2000,Summary,5347,5908.0,3.4,3.5,561,10.5,610.5
+740,Boilermakers,47-2011,Line item,17.2,18.7,0,0.0,1.5,9,1.9
+741,"Brickmasons, blockmasons, and stonemasons",47-2020,Summary,110,121.2,0.1,0.1,11.2,10.2,10.9
+742,Brickmasons and blockmasons,47-2021,Line item,91.1,100.5,0.1,0.1,9.4,10.3,9
+743,Stonemasons,47-2022,Line item,18.9,20.7,0,0.0,1.8,9.5,1.8
+744,Carpenters,47-2031,Line item,1025.6,1109.4,0.7,0.7,83.8,8.2,104.4
+745,"Carpet, floor, and tile installers and finishers",47-2040,Summary,122.3,134.0,0.1,0.1,11.7,9.6,11.9
+746,Carpet installers,47-2041,Line item,40.4,44.2,0,0.0,3.8,9.4,3.9
+747,"Floor layers, except carpet, wood, and hard tiles",47-2042,Line item,16.3,17.9,0,0.0,1.6,9.7,1.6
+748,Floor sanders and finishers,47-2043,Line item,7.3,7.9,0,0.0,0.7,9.5,0.7
+749,Tile and marble setters,47-2044,Line item,58.3,64.0,0,0.0,5.6,9.7,5.7
+750,"Cement masons, concrete finishers, and terrazzo workers",47-2050,Summary,182.5,205.5,0.1,0.1,23,12.6,22.8
+751,Cement masons and concrete finishers,47-2051,Line item,178.9,201.5,0.1,0.1,22.5,12.6,22.4
+752,Terrazzo workers and finishers,47-2053,Line item,3.6,4.0,0,0.0,0.4,12.3,0.4
+753,Construction laborers,47-2061,Line item,1216.7,1367.1,0.8,0.8,150.4,12.4,145.3
+754,Construction equipment operators,47-2070,Summary,426.6,479.3,0.3,0.3,52.7,12.3,53.9
+755,"Paving, surfacing, and tamping equipment operators",47-2071,Line item,51.9,58.2,0,0.0,6.3,12.1,6.2
+756,Pile-driver operators,47-2072,Line item,3.7,4.2,0,0.0,0.5,14.6,0.5
+757,Operating engineers and other construction equipment operators,47-2073,Line item,371.1,416.9,0.2,0.2,45.8,12.3,47.3
+758,"Drywall installers, ceiling tile installers, and tapers",47-2080,Summary,143.2,144.4,0.1,0.1,1.2,0.9,12.5
+759,Drywall and ceiling tile installers,47-2081,Line item,119.5,120.7,0.1,0.1,1.2,1,10.5
+760,Tapers,47-2082,Line item,23.7,23.8,0,0.0,0.1,0.3,2.1
+761,Electricians,47-2111,Line item,666.9,726.5,0.4,0.4,59.6,8.9,82
+762,Glaziers,47-2121,Line item,50.1,55.3,0,0.0,5.3,10.5,6.5
+763,Insulation workers,47-2130,Summary,59.5,62.7,0,0.0,3.2,5.3,6.6
+764,"Insulation workers, floor, ceiling, and wall",47-2131,Line item,30.9,31.3,0,0.0,0.4,1.3,3.3
+765,"Insulation workers, mechanical",47-2132,Line item,28.6,31.4,0,0.0,2.8,9.7,3.4
+766,Painters and paperhangers,47-2140,Summary,387.3,409.4,0.2,0.2,22.2,5.7,35.7
+767,"Painters, construction and maintenance",47-2141,Line item,381.5,403.4,0.2,0.2,21.9,5.7,35.2
+768,Paperhangers,47-2142,Line item,5.7,6.0,0,0.0,0.3,4.6,0.5
+769,"Pipelayers, plumbers, pipefitters, and steamfitters",47-2150,Summary,524.8,607.5,0.3,0.4,82.7,15.8,66.7
+770,Pipelayers,47-2151,Line item,44.1,51.7,0,0.0,7.6,17.2,5.7
+771,"Plumbers, pipefitters, and steamfitters",47-2152,Line item,480.6,555.8,0.3,0.3,75.2,15.6,61
+772,Plasterers and stucco masons,47-2161,Line item,27.7,28.8,0,0.0,1.1,3.9,2.7
+773,Reinforcing iron and rebar workers,47-2171,Line item,20.1,22.5,0,0.0,2.4,12.1,2.4
+774,Roofers,47-2181,Line item,146.2,162.4,0.1,0.1,16.2,11.1,16.5
+775,Sheet metal workers,47-2211,Line item,138.9,150.9,0.1,0.1,12,8.7,16.2
+776,Structural iron and steel workers,47-2221,Line item,70.2,79.2,0,0.0,9,12.8,8.7
+777,Solar photovoltaic installers,47-2231,Line item,11.3,23.1,0,0.0,11.8,104.9,3
+778,"Helpers, construction trades",47-3000,Summary,232.7,262.8,0.1,0.2,30.1,12.9,37.4
+779,"Helpers--brickmasons, blockmasons, stonemasons, and tile and marble setters",47-3011,Line item,24.1,27.0,0,0.0,2.9,12.1,3.8
+780,Helpers--carpenters,47-3012,Line item,36.7,41.4,0,0.0,4.7,12.8,5.9
+781,Helpers--electricians,47-3013,Line item,73.2,80.9,0,0.0,7.7,10.6,11.5
+782,"Helpers--painters, paperhangers, plasterers, and stucco masons",47-3014,Line item,10.9,11.4,0,0.0,0.5,4.1,1.6
+783,"Helpers--pipelayers, plumbers, pipefitters, and steamfitters",47-3015,Line item,55.5,65.8,0,0.0,10.3,18.6,9.5
+784,Helpers--roofers,47-3016,Line item,10.2,11.5,0,0.0,1.3,12.4,1.6
+785,"Helpers, construction trades, all other",47-3019,Line item,22.1,24.8,0,0.0,2.7,12.1,3.5
+786,Other construction and related workers,47-4000,Summary,435.8,480.4,0.3,0.3,44.6,10.2,53.2
+787,Construction and building inspectors,47-4011,Line item,105.1,115.7,0.1,0.1,10.5,10,12.7
+788,Elevator installers and repairers,47-4021,Line item,22.1,24.8,0,0.0,2.7,12.1,3
+789,Fence erectors,47-4031,Line item,25.1,27.9,0,0.0,2.7,10.8,3.2
+790,Hazardous materials removal workers,47-4041,Line item,46.2,54.1,0,0.0,7.9,17.2,6.7
+791,Highway maintenance workers,47-4051,Line item,149.9,160.2,0.1,0.1,10.3,6.9,16.5
+792,Rail-track laying and maintenance equipment operators,47-4061,Line item,14,15.2,0,0.0,1.2,8.6,1.5
+793,Septic tank servicers and sewer pipe cleaners,47-4071,Line item,28.5,33.4,0,0.0,4.9,17.2,4.3
+794,Miscellaneous construction and related workers,47-4090,Summary,44.8,49.2,0,0.0,4.3,9.7,5.3
+795,Segmental pavers,47-4091,Line item,2.1,2.4,0,0.0,0.3,12,0.3
+796,"Construction and related workers, all other",47-4099,Line item,42.7,46.8,0,0.0,4.1,9.6,5.1
+797,Extraction workers,47-5000,Summary,194.4,230.6,0.1,0.1,36.2,18.6,28.6
+798,"Derrick, rotary drill, and service unit operators, oil, gas, and mining",47-5010,Summary,69.2,85.8,0,0.1,16.6,24,10.8
+799,"Derrick operators, oil and gas",47-5011,Line item,11.1,13.9,0,0.0,2.8,25.7,1.8
+800,"Rotary drill operators, oil and gas",47-5012,Line item,16.7,20.8,0,0.0,4,24.2,2.6
+801,"Service unit operators, oil, gas, and mining",47-5013,Line item,41.4,51.1,0,0.0,9.7,23.4,6.4
+802,"Earth drillers, except oil and gas",47-5021,Line item,19.6,23.5,0,0.0,3.9,19.6,2.6
+803,"Explosives workers, ordnance handling experts, and blasters",47-5031,Line item,6.3,6.8,0,0.0,0.5,7.1,0.8
+804,Mining machine operators,47-5040,Summary,20.6,19.9,0,0.0,-0.7,-3.5,2.3
+805,Continuous mining machine operators,47-5041,Line item,12.3,11.9,0,0.0,-0.5,-3.7,1.4
+806,Mine cutting and channeling machine operators,47-5042,Line item,6.1,5.8,0,0.0,-0.3,-4.5,0.7
+807,"Mining machine operators, all other",47-5049,Line item,2.2,2.2,0,0.0,0,0.2,0.3
+808,"Rock splitters, quarry",47-5051,Line item,3.7,3.5,0,0.0,-0.2,-6.3,0.4
+809,"Roof bolters, mining",47-5061,Line item,3.7,3.5,0,0.0,-0.2,-5.2,0.4
+810,"Roustabouts, oil and gas",47-5071,Line item,50,62.4,0,0.0,12.4,24.8,8
+811,Helpers--extraction workers,47-5081,Line item,17,20.3,0,0.0,3.4,19.7,2.6
+812,"Extraction workers, all other",47-5099,Line item,4.2,4.8,0,0.0,0.7,15.9,0.6
+813,"Installation, maintenance, and repair occupations",49-0000,Summary,5905.4,6293.6,3.8,3.8,388.2,6.6,610.6
+814,"Supervisors of installation, maintenance, and repair workers",49-1000,Summary,462.2,495.0,0.3,0.3,32.8,7.1,43.4
+815,"First-line supervisors of mechanics, installers, and repairers",49-1011,Line item,462.2,495.0,0.3,0.3,32.8,7.1,43.4
+816,"Electrical and electronic equipment mechanics, installers, and repairers",49-2000,Summary,628.1,621.3,0.4,0.4,-6.7,-1.1,60.8
+817,"Computer, automated teller, and office machine repairers",49-2011,Line item,119.5,117.7,0.1,0.1,-1.8,-1.5,11.2
+818,Radio and telecommunications equipment installers and repairers,49-2020,Summary,252.1,234.7,0.2,0.1,-17.4,-6.9,23.5
+819,"Radio, cellular, and tower equipment installers and repairs",49-2021,Line item,14.5,15.3,0,0.0,0.8,5.4,1.6
+820,"Telecommunications equipment installers and repairers, except line installers",49-2022,Line item,237.6,219.4,0.2,0.1,-18.2,-7.6,21.9
+821,"Miscellaneous electrical and electronic equipment mechanics, installers, and repairers",49-2090,Summary,256.5,269.0,0.2,0.2,12.4,4.8,26
+822,Avionics technicians,49-2091,Line item,17.5,18.6,0,0.0,1.1,6,1.5
+823,"Electric motor, power tool, and related repairers",49-2092,Line item,17.3,18.5,0,0.0,1.2,7,1.8
+824,"Electrical and electronics installers and repairers, transportation equipment",49-2093,Line item,13.9,14.3,0,0.0,0.4,2.9,1.3
+825,"Electrical and electronics repairers, commercial and industrial equipment",49-2094,Line item,68.3,69.9,0,0.0,1.6,2.4,6.1
+826,"Electrical and electronics repairers, powerhouse, substation, and relay",49-2095,Line item,23.4,24.3,0,0.0,0.9,3.7,2.1
+827,"Electronic equipment installers and repairers, motor vehicles",49-2096,Line item,12.1,9.0,0,0.0,-3.1,-25.6,0.7
+828,Electronic home entertainment equipment installers and repairers,49-2097,Line item,31.7,31.7,0,0.0,0,0,3.3
+829,Security and fire alarm systems installers,49-2098,Line item,72.3,82.6,0,0.0,10.4,14.4,9.4
+830,"Vehicle and mobile equipment mechanics, installers, and repairers",49-3000,Summary,1750.2,1866.2,1.1,1.1,116,6.6,180.4
+831,Aircraft mechanics and service technicians,49-3011,Line item,132,138.5,0.1,0.1,6.4,4.9,10.9
+832,Automotive technicians and repairers,49-3020,Summary,930,990.8,0.6,0.6,60.8,6.5,94.8
+833,Automotive body and related repairers,49-3021,Line item,160.4,174.1,0.1,0.1,13.6,8.5,17.1
+834,Automotive glass installers and repairers,49-3022,Line item,19.6,20.9,0,0.0,1.3,6.5,2.1
+835,Automotive service technicians and mechanics,49-3023,Line item,749.9,795.8,0.5,0.5,45.9,6.1,75.6
+836,Bus and truck mechanics and diesel engine specialists,49-3031,Line item,278.8,304.6,0.2,0.2,25.8,9.2,28.2
+837,Heavy vehicle and mobile equipment service technicians and mechanics,49-3040,Summary,192.1,207.0,0.1,0.1,14.9,7.8,20.3
+838,Farm equipment mechanics and service technicians,49-3041,Line item,42.5,45.7,0,0.0,3.2,7.6,4.5
+839,"Mobile heavy equipment mechanics, except engines",49-3042,Line item,127.4,137.9,0.1,0.1,10.5,8.3,13.5
+840,Rail car repairers,49-3043,Line item,22.3,23.4,0,0.0,1.2,5.2,2.3
+841,Small engine mechanics,49-3050,Summary,79.3,83.1,0.1,0.0,3.8,4.8,8.7
+842,Motorboat mechanics and service technicians,49-3051,Line item,23.4,23.3,0,0.0,-0.1,-0.5,2.4
+843,Motorcycle mechanics,49-3052,Line item,18.3,18.4,0,0.0,0,0.3,1.9
+844,Outdoor power equipment and other small engine mechanics,49-3053,Line item,37.6,41.5,0,0.0,3.9,10.3,4.4
+845,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",49-3090,Summary,138,142.3,0.1,0.1,4.3,3.1,17.6
+846,Bicycle repairers,49-3091,Line item,12.4,16.1,0,0.0,3.6,29.3,2.1
+847,Recreational vehicle service technicians,49-3092,Line item,13.8,13.7,0,0.0,-0.2,-1.1,1.7
+848,Tire repairers and changers,49-3093,Line item,111.7,112.5,0.1,0.1,0.8,0.7,13.8
+849,"Other installation, maintenance, and repair occupations",49-9000,Summary,3065,3311.1,2,2.0,246.1,8,325.9
+850,Control and valve installers and repairers,49-9010,Summary,67.3,71.6,0,0.0,4.4,6.5,5.6
+851,Mechanical door repairers,49-9011,Line item,20.4,22.5,0,0.0,2.1,10.2,1.8
+852,"Control and valve installers and repairers, except mechanical door",49-9012,Line item,46.9,49.2,0,0.0,2.3,4.9,3.8
+853,"Heating, air conditioning, and refrigeration mechanics and installers",49-9021,Line item,332.9,381.7,0.2,0.2,48.8,14.7,38.7
+854,Home appliance repairers,49-9031,Line item,46.6,44.7,0,0.0,-1.9,-4.2,4
+855,"Industrial machinery installation, repair, and maintenance workers",49-9040,Summary,477.7,509.7,0.3,0.3,32,6.7,46.9
+856,Industrial machinery mechanics,49-9041,Line item,346.9,370.1,0.2,0.2,23.2,6.7,33
+857,"Maintenance workers, machinery",49-9043,Line item,89.7,94.7,0.1,0.1,5,5.6,9.8
+858,Millwrights,49-9044,Line item,39.5,43.4,0,0.0,3.9,9.8,4
+859,"Refractory materials repairers, except brickmasons",49-9045,Line item,1.6,1.5,0,0.0,-0.1,-3.5,0.1
+860,Line installers and repairers,49-9050,Summary,227,245.3,0.1,0.1,18.4,8.1,22.4
+861,Electrical power-line installers and repairers,49-9051,Line item,120.9,137.7,0.1,0.1,16.8,13.9,11.7
+862,Telecommunications line installers and repairers,49-9052,Line item,106.1,107.7,0.1,0.1,1.6,1.5,10.7
+863,Precision instrument and equipment repairers,49-9060,Summary,73.8,75.7,0,0.0,2,2.7,6.6
+864,Camera and photographic equipment repairers,49-9061,Line item,4,4.1,0,0.0,0.1,2.3,0.4
+865,Medical equipment repairers,49-9062,Line item,47.1,49.1,0,0.0,2,4.3,4.3
+866,Musical instrument repairers and tuners,49-9063,Line item,8.3,8.4,0,0.0,0.1,1.2,0.7
+867,Watch repairers,49-9064,Line item,1.8,1.2,0,0.0,-0.5,-29.7,0.1
+868,"Precision instrument and equipment repairers, all other",49-9069,Line item,12.6,12.8,0,0.0,0.3,2.1,1.1
+869,"Maintenance and repair workers, general",49-9071,Line item,1432.6,1545.1,0.9,0.9,112.5,7.9,154.7
+870,Wind turbine service technicians,49-9081,Line item,5.8,11.3,0,0.0,5.6,96.3,1.4
+871,"Miscellaneous installation, maintenance, and repair workers",49-9090,Summary,401.4,425.8,0.3,0.3,24.5,6.1,45.6
+872,"Coin, vending, and amusement machine servicers and repairers",49-9091,Line item,36.6,32.0,0,0.0,-4.6,-12.5,3.3
+873,Commercial divers,49-9092,Line item,4.1,4.5,0,0.0,0.4,10.8,0.4
+874,"Fabric menders, except garment",49-9093,Line item,0.7,0.6,0,0.0,0,-7.3,0.1
+875,Locksmiths and safe repairers,49-9094,Line item,28.7,27.8,0,0.0,-1,-3.3,2.5
+876,Manufactured building and mobile home installers,49-9095,Line item,4.3,4.0,0,0.0,-0.4,-8.9,0.3
+877,Riggers,49-9096,Line item,20.9,22.9,0,0.0,2.1,9.8,2.3
+878,Signal and track switch repairers,49-9097,Line item,10,10.2,0,0.0,0.1,1.3,1
+879,"Helpers--installation, maintenance, and repair workers",49-9098,Line item,120.2,133.5,0.1,0.1,13.3,11.1,17
+880,"Installation, maintenance, and repair workers, all other",49-9099,Line item,175.8,190.3,0.1,0.1,14.5,8.2,18.7
+881,Production occupations,51-0000,Summary,9356.9,8950.0,6,5.3,-406.9,-4.3,990.4
+882,Supervisors of production workers,51-1000,Summary,621.4,619.5,0.4,0.4,-1.8,-0.3,59.3
+883,First-line supervisors of production and operating workers,51-1011,Line item,621.4,619.5,0.4,0.4,-1.8,-0.3,59.3
+884,Assemblers and fabricators,51-2000,Summary,1819.3,1557.4,1.2,0.9,-261.9,-14.4,166.9
+885,"Aircraft structure, surfaces, rigging, and systems assemblers",51-2011,Line item,41.8,34.5,0,0.0,-7.3,-17.4,3.2
+886,"Electrical, electronics, and electromechanical assemblers",51-2020,Summary,278.7,220.4,0.2,0.1,-58.4,-20.9,23.1
+887,"Coil winders, tapers, and finishers",51-2021,Line item,14.1,11.2,0,0.0,-2.9,-20.7,1.2
+888,Electrical and electronic equipment assemblers,51-2022,Line item,218.9,173.3,0.1,0.1,-45.6,-20.8,18.2
+889,Electromechanical equipment assemblers,51-2023,Line item,45.7,35.9,0,0.0,-9.8,-21.4,3.8
+890,Engine and other machine assemblers,51-2031,Line item,38,31.5,0,0.0,-6.5,-17.2,2.8
+891,Structural metal fabricators and fitters,51-2041,Line item,77,65.2,0,0.0,-11.8,-15.3,6.5
+892,Miscellaneous assemblers and fabricators,51-2090,Summary,1383.8,1205.8,0.9,0.7,-178,-12.9,131.3
+893,Fiberglass laminators and fabricators,51-2091,Line item,19.7,19.4,0,0.0,-0.3,-1.5,2.2
+894,Team assemblers,51-2092,Line item,1130.9,985.9,0.7,0.6,-145,-12.8,107.4
+895,Timing device assemblers and adjusters,51-2093,Line item,0.8,0.6,0,0.0,-0.2,-20.1,0.1
+896,"Assemblers and fabricators, all other",51-2099,Line item,232.4,199.8,0.1,0.1,-32.6,-14,21.6
+897,Food processing workers,51-3000,Summary,823,853.7,0.5,0.5,30.7,3.7,110.8
+898,Bakers,51-3011,Line item,191,205.6,0.1,0.1,14.6,7.6,29.1
+899,"Butchers and other meat, poultry, and fish processing workers",51-3020,Summary,374.6,384.3,0.2,0.2,9.7,2.6,46.9
+900,Butchers and meat cutters,51-3021,Line item,135.7,143.5,0.1,0.1,7.8,5.8,17.7
+901,"Meat, poultry, and fish cutters and trimmers",51-3022,Line item,156.4,157.8,0.1,0.1,1.4,0.9,19.2
+902,Slaughterers and meat packers,51-3023,Line item,82.5,83.0,0.1,0.0,0.5,0.6,10.1
+903,Miscellaneous food processing workers,51-3090,Summary,257.4,263.8,0.2,0.2,6.4,2.5,34.8
+904,"Food and tobacco roasting, baking, and drying machine operators and tenders",51-3091,Line item,20.1,19.9,0,0.0,-0.2,-0.8,2.2
+905,Food batchmakers,51-3092,Line item,153.7,156.4,0.1,0.1,2.6,1.7,21.7
+906,Food cooking machine operators and tenders,51-3093,Line item,37.2,38.1,0,0.0,0.9,2.5,5.2
+907,"Food processing workers, all other",51-3099,Line item,46.4,49.4,0,0.0,3,6.5,5.6
+908,Metal workers and plastic workers,51-4000,Summary,1954.7,1886.1,1.3,1.1,-68.5,-3.5,192
+909,Computer control programmers and operators,51-4010,Summary,170.7,176.4,0.1,0.1,5.7,3.3,17.5
+910,"Computer-controlled machine tool operators, metal and plastic",51-4011,Line item,145.7,147.3,0.1,0.1,1.6,1.1,14.5
+911,"Computer numerically controlled machine tool programmers, metal and plastic",51-4012,Line item,25.1,29.2,0,0.0,4.1,16.3,3.1
+912,"Forming machine setters, operators, and tenders, metal and plastic",51-4020,Summary,120.5,102.1,0.1,0.1,-18.4,-15.3,9.3
+913,"Extruding and drawing machine setters, operators, and tenders, metal and plastic",51-4021,Line item,72.3,61.3,0,0.0,-11,-15.2,5.6
+914,"Forging machine setters, operators, and tenders, metal and plastic",51-4022,Line item,19.2,15.5,0,0.0,-3.7,-19.2,1.4
+915,"Rolling machine setters, operators, and tenders, metal and plastic",51-4023,Line item,29,25.3,0,0.0,-3.7,-12.9,2.3
+916,"Machine tool cutting setters, operators, and tenders, metal and plastic",51-4030,Summary,332.4,299.1,0.2,0.2,-33.2,-10,30.9
+917,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",51-4031,Line item,192.7,175.9,0.1,0.1,-16.8,-8.7,18.9
+918,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",51-4032,Line item,12.3,9.9,0,0.0,-2.4,-19.5,0.9
+919,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",51-4033,Line item,76.2,68.3,0,0.0,-7.8,-10.3,6.8
+920,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",51-4034,Line item,33.7,30.8,0,0.0,-2.8,-8.4,2.9
+921,"Milling and planing machine setters, operators, and tenders, metal and plastic",51-4035,Line item,17.6,14.2,0,0.0,-3.4,-19.3,1.3
+922,Machinists,51-4041,Line item,396.2,404.1,0.3,0.2,7.9,2,40.7
+923,"Metal furnace operators, tenders, pourers, and casters",51-4050,Summary,26.2,22.8,0,0.0,-3.4,-13.1,2
+924,Metal-refining furnace operators and tenders,51-4051,Line item,17.7,16.3,0,0.0,-1.4,-8.1,1.5
+925,"Pourers and casters, metal",51-4052,Line item,8.4,6.5,0,0.0,-2,-23.4,0.5
+926,"Model makers and patternmakers, metal and plastic",51-4060,Summary,9.7,8.4,0,0.0,-1.3,-13.3,0.8
+927,"Model makers, metal and plastic",51-4061,Line item,6.3,5.5,0,0.0,-0.8,-12.2,0.6
+928,"Patternmakers, metal and plastic",51-4062,Line item,3.4,2.9,0,0.0,-0.5,-15.5,0.3
+929,"Molders and molding machine setters, operators, and tenders, metal and plastic",51-4070,Summary,157.9,133.1,0.1,0.1,-24.8,-15.7,13.9
+930,Foundry mold and coremakers,51-4071,Line item,12.5,9.5,0,0.0,-3,-24,0.9
+931,"Molding, coremaking, and casting machine setters, operators, and tenders, metal and plastic",51-4072,Line item,145.4,123.6,0.1,0.1,-21.8,-15,12.9
+932,"Multiple machine tool setters, operators, and tenders, metal and plastic",51-4081,Line item,117.8,114.7,0.1,0.1,-3.1,-2.7,12
+933,Tool and die makers,51-4111,Line item,72.5,67.3,0,0.0,-5.2,-7.2,6
+934,"Welding, soldering, and brazing workers",51-4120,Summary,454,471.6,0.3,0.3,17.5,3.9,50.2
+935,"Welders, cutters, solderers, and brazers",51-4121,Line item,404.8,427.3,0.3,0.3,22.5,5.6,45.8
+936,"Welding, soldering, and brazing machine setters, operators, and tenders",51-4122,Line item,49.2,44.2,0,0.0,-5,-10.2,4.4
+937,Miscellaneous metal workers and plastic workers,51-4190,Summary,96.7,86.6,0.1,0.1,-10.2,-10.5,8.6
+938,"Heat treating equipment setters, operators, and tenders, metal and plastic",51-4191,Line item,19.8,17.0,0,0.0,-2.8,-14.2,1.7
+939,"Layout workers, metal and plastic",51-4192,Line item,9.2,8.5,0,0.0,-0.6,-6.9,0.9
+940,"Plating and coating machine setters, operators, and tenders, metal and plastic",51-4193,Line item,35.3,30.4,0,0.0,-4.9,-13.8,2.8
+941,"Tool grinders, filers, and sharpeners",51-4194,Line item,9.5,9.2,0,0.0,-0.3,-3.5,1.1
+942,"Metal workers and plastic workers, all other",51-4199,Line item,23,21.4,0,0.0,-1.5,-6.7,2.2
+943,Printing workers,51-5100,Summary,267.3,235.4,0.2,0.1,-31.9,-11.9,24.7
+944,Prepress technicians and workers,51-5111,Line item,34.6,27.7,0,0.0,-6.9,-19.9,3
+945,Printing press operators,51-5112,Line item,178.7,160.2,0.1,0.1,-18.6,-10.4,15.8
+946,Print binding and finishing workers,51-5113,Line item,54,47.6,0,0.0,-6.5,-12,6
+947,"Textile, apparel, and furnishings workers",51-6000,Summary,654.3,599.9,0.4,0.4,-54.4,-8.3,70.4
+948,Laundry and dry-cleaning workers,51-6011,Line item,220.1,219.6,0.1,0.1,-0.5,-0.2,29.5
+949,"Pressers, textile, garment, and related materials",51-6021,Line item,45,42.0,0,0.0,-3,-6.7,5.2
+950,Sewing machine operators,51-6031,Line item,153.9,128.2,0.1,0.1,-25.7,-16.7,12.3
+951,Shoe and leather workers,51-6040,Summary,14.6,13.0,0,0.0,-1.6,-11.2,1.2
+952,Shoe and leather workers and repairers,51-6041,Line item,11,9.7,0,0.0,-1.3,-11.7,0.8
+953,Shoe machine operators and tenders,51-6042,Line item,3.6,3.3,0,0.0,-0.3,-9.5,0.4
+954,"Tailors, dressmakers, and sewers",51-6050,Summary,57.7,51.4,0,0.0,-6.3,-11,6.2
+955,"Sewers, hand",51-6051,Line item,13.5,11.6,0,0.0,-1.8,-13.7,1.4
+956,"Tailors, dressmakers, and custom sewers",51-6052,Line item,44.3,39.8,0,0.0,-4.5,-10.1,4.8
+957,"Textile machine setters, operators, and tenders",51-6060,Summary,79.3,65.4,0.1,0.0,-13.9,-17.5,7.3
+958,Textile bleaching and dyeing machine operators and tenders,51-6061,Line item,11.3,9.2,0,0.0,-2,-18.1,1
+959,"Textile cutting machine setters, operators, and tenders",51-6062,Line item,15,12.6,0,0.0,-2.4,-15.8,1.6
+960,"Textile knitting and weaving machine setters, operators, and tenders",51-6063,Line item,22.2,17.9,0,0.0,-4.3,-19.3,2.1
+961,"Textile winding, twisting, and drawing out machine setters, operators, and tenders",51-6064,Line item,30.8,25.6,0,0.0,-5.2,-16.8,2.6
+962,"Miscellaneous textile, apparel, and furnishings workers",51-6090,Summary,83.7,80.4,0.1,0.0,-3.3,-4,8.7
+963,"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",51-6091,Line item,20.2,18.3,0,0.0,-1.9,-9.5,2.1
+964,Fabric and apparel patternmakers,51-6092,Line item,5.5,4.6,0,0.0,-0.9,-16.1,0.5
+965,Upholsterers,51-6093,Line item,41.6,41.8,0,0.0,0.1,0.3,4.2
+966,"Textile, apparel, and furnishings workers, all other",51-6099,Line item,16.3,15.7,0,0.0,-0.7,-4.1,1.8
+967,Woodworkers,51-7000,Summary,279.3,282.6,0.2,0.2,3.3,1.2,30
+968,Cabinetmakers and bench carpenters,51-7011,Line item,109.3,111.8,0.1,0.1,2.5,2.3,11.5
+969,Furniture finishers,51-7021,Line item,22.4,22.3,0,0.0,-0.1,-0.4,2
+970,"Model makers and patternmakers, wood",51-7030,Summary,3.7,3.8,0,0.0,0.1,3.1,0.4
+971,"Model makers, wood",51-7031,Line item,1.9,1.9,0,0.0,0.1,3,0.2
+972,"Patternmakers, wood",51-7032,Line item,1.8,1.8,0,0.0,0.1,3.3,0.2
+973,"Woodworking machine setters, operators, and tenders",51-7040,Summary,131.9,132.2,0.1,0.1,0.3,0.2,14.6
+974,"Sawing machine setters, operators, and tenders, wood",51-7041,Line item,54.8,54.6,0,0.0,-0.2,-0.3,6.2
+975,"Woodworking machine setters, operators, and tenders, except sawing",51-7042,Line item,77.1,77.5,0,0.0,0.5,0.6,8.4
+976,"Woodworkers, all other",51-7099,Line item,12.1,12.5,0,0.0,0.4,3.6,1.4
+977,Plant and system operators,51-8000,Summary,314,309.7,0.2,0.2,-4.3,-1.4,27.8
+978,"Power plant operators, distributors, and dispatchers",51-8010,Summary,54.7,54.2,0,0.0,-0.6,-1,4.6
+979,Nuclear power reactor operators,51-8011,Line item,7,6.3,0,0.0,-0.7,-10.2,0.5
+980,Power distributors and dispatchers,51-8012,Line item,11.6,11.3,0,0.0,-0.3,-2.5,1
+981,Power plant operators,51-8013,Line item,36.1,36.5,0,0.0,0.5,1.3,3.2
+982,Stationary engineers and boiler operators,51-8021,Line item,35.7,37.5,0,0.0,1.7,4.8,3.9
+983,Water and wastewater treatment plant and system operators,51-8031,Line item,119.2,115.4,0.1,0.1,-3.8,-3.2,9.2
+984,Miscellaneous plant and system operators,51-8090,Summary,104.4,102.7,0.1,0.1,-1.7,-1.6,10
+985,Chemical plant and system operators,51-8091,Line item,33.2,30.1,0,0.0,-3.1,-9.2,2.8
+986,Gas plant operators,51-8092,Line item,17.3,17.3,0,0.0,0,0,1.7
+987,"Petroleum pump system operators, refinery operators, and gaugers",51-8093,Line item,41.8,43.0,0,0.0,1.2,2.8,4.3
+988,"Plant and system operators, all other",51-8099,Line item,12.1,12.4,0,0.0,0.2,1.9,1.2
+989,Other production occupations,51-9000,Summary,2623.7,2605.7,1.7,1.6,-18.1,-0.7,308.6
+990,"Chemical processing machine setters, operators, and tenders",51-9010,Summary,121.3,117.6,0.1,0.1,-3.6,-3,12.3
+991,Chemical equipment operators and tenders,51-9011,Line item,74.1,70.4,0,0.0,-3.7,-5,7.3
+992,"Separating, filtering, clarifying, precipitating, and still machine setters, operators, and tenders",51-9012,Line item,47.2,47.3,0,0.0,0.1,0.1,5
+993,"Crushing, grinding, polishing, mixing, and blending workers",51-9020,Summary,187.7,176.2,0.1,0.1,-11.6,-6.2,19
+994,"Crushing, grinding, and polishing machine setters, operators, and tenders",51-9021,Line item,30.2,28.2,0,0.0,-2,-6.7,3
+995,"Grinding and polishing workers, hand",51-9022,Line item,26.6,21.1,0,0.0,-5.4,-20.5,2.1
+996,"Mixing and blending machine setters, operators, and tenders",51-9023,Line item,131,126.9,0.1,0.1,-4.1,-3.1,13.9
+997,Cutting workers,51-9030,Summary,78.3,74.3,0.1,0.0,-4,-5.1,8.2
+998,"Cutters and trimmers, hand",51-9031,Line item,14.7,13.2,0,0.0,-1.5,-10.1,1.4
+999,"Cutting and slicing machine setters, operators, and tenders",51-9032,Line item,63.6,61.1,0,0.0,-2.5,-4,6.8
+1000,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",51-9041,Line item,71.4,67.5,0,0.0,-3.8,-5.4,7.9
+1001,"Furnace, kiln, oven, drier, and kettle operators and tenders",51-9051,Line item,21.9,20.8,0,0.0,-1.1,-5.2,2
+1002,"Inspectors, testers, sorters, samplers, and weighers",51-9061,Line item,520.7,465.2,0.3,0.3,-55.5,-10.7,52.7
+1003,Jewelers and precious stone and metal workers,51-9071,Line item,37.7,35.2,0,0.0,-2.5,-6.7,3.5
+1004,"Medical, dental, and ophthalmic laboratory technicians",51-9080,Summary,82.2,93.2,0.1,0.1,11,13.4,10.7
+1005,Dental laboratory technicians,51-9081,Line item,38.1,43.6,0,0.0,5.5,14.4,5
+1006,Medical appliance technicians,51-9082,Line item,15,17.0,0,0.0,2,13.6,2
+1007,Ophthalmic laboratory technicians,51-9083,Line item,29.1,32.5,0,0.0,3.4,11.8,3.7
+1008,Packaging and filling machine operators and tenders,51-9111,Line item,383,389.7,0.2,0.2,6.7,1.7,44.6
+1009,Painting workers,51-9120,Summary,164.2,168.2,0.1,0.1,4,2.4,17.6
+1010,"Coating, painting, and spraying machine setters, operators, and tenders",51-9121,Line item,89.9,89.9,0.1,0.1,0,0,9.3
+1011,"Painters, transportation equipment",51-9122,Line item,58.1,61.9,0,0.0,3.9,6.6,6.6
+1012,"Painting, coating, and decorating workers",51-9123,Line item,16.3,16.4,0,0.0,0.1,0.9,1.7
+1013,Semiconductor processors,51-9141,Line item,25.5,24.1,0,0.0,-1.4,-5.6,2.6
+1014,Photographic process workers and processing machine operators,51-9151,Line item,26.9,22.0,0,0.0,-4.9,-18.1,3.3
+1015,Miscellaneous production workers,51-9190,Summary,902.8,951.6,0.6,0.6,48.8,5.4,124.2
+1016,Adhesive bonding machine operators and tenders,51-9191,Line item,17,16.6,0,0.0,-0.5,-2.7,1.8
+1017,"Cleaning, washing, and metal pickling equipment operators and tenders",51-9192,Line item,17.2,17.3,0,0.0,0.1,0.4,2.2
+1018,Cooling and freezing equipment operators and tenders,51-9193,Line item,8.7,8.8,0,0.0,0.1,1.4,1
+1019,Etchers and engravers,51-9194,Line item,10.6,10.6,0,0.0,0.1,0.6,1.3
+1020,"Molders, shapers, and casters, except metal and plastic",51-9195,Line item,43,41.9,0,0.0,-1,-2.3,4.2
+1021,"Paper goods machine setters, operators, and tenders",51-9196,Line item,94.6,86.1,0.1,0.1,-8.5,-9,8.3
+1022,Tire builders,51-9197,Line item,22.3,19.6,0,0.0,-2.7,-12.1,2.1
+1023,Helpers--production workers,51-9198,Line item,426,475.5,0.3,0.3,49.5,11.6,72
+1024,"Production workers, all other",51-9199,Line item,263.5,275.1,0.2,0.2,11.6,4.4,31.4
+1025,Transportation and material moving occupations,53-0000,Summary,10274.2,10908.4,6.6,6.5,634.3,6.2,1333.4
+1026,Supervisors of transportation and material moving workers,53-1000,Summary,396.2,425.8,0.3,0.3,29.7,7.5,44.4
+1027,Aircraft cargo handling supervisors,53-1011,Line item,7.6,8.1,0,0.0,0.5,5.9,0.8
+1028,"First-line supervisors of helpers, laborers, and material movers, hand",53-1021,Line item,184.4,200.1,0.1,0.1,15.7,8.5,21
+1029,First-line supervisors of transportation and material-moving machine and vehicle operators,53-1031,Line item,204.2,217.7,0.1,0.1,13.5,6.6,22.6
+1030,Air transportation workers,53-2000,Summary,275.3,293.2,0.2,0.2,18,6.5,29.6
+1031,Aircraft pilots and flight engineers,53-2010,Summary,124.8,129.2,0.1,0.1,4.4,3.5,12.1
+1032,"Airline pilots, copilots, and flight engineers",53-2011,Line item,84,86.9,0.1,0.1,2.9,3.4,8.1
+1033,Commercial pilots,53-2012,Line item,40.8,42.3,0,0.0,1.6,3.8,4
+1034,Air traffic controllers and airfield operations specialists,53-2020,Summary,33.8,35.5,0,0.0,1.6,4.9,3.3
+1035,Air traffic controllers,53-2021,Line item,24.9,25.8,0,0.0,0.9,3.5,2.4
+1036,Airfield operations specialists,53-2022,Line item,8.9,9.7,0,0.0,0.8,8.8,0.9
+1037,Flight attendants,53-2031,Line item,116.6,128.5,0.1,0.1,11.9,10.2,14.2
+1038,Motor vehicle operators,53-3000,Summary,4358.9,4590.6,2.8,2.7,231.7,5.3,506.9
+1039,"Ambulance drivers and attendants, except emergency medical technicians",53-3011,Line item,17.3,21.1,0,0.0,3.8,21.9,3.1
+1040,Bus drivers,53-3020,Summary,687.2,730.6,0.4,0.4,43.4,6.3,88.9
+1041,"Bus drivers, transit and intercity",53-3021,Line item,179.3,195.4,0.1,0.1,16.1,9,24
+1042,"Bus drivers, school or special client",53-3022,Line item,507.9,535.2,0.3,0.3,27.3,5.4,64.9
+1043,Driver/sales workers and truck drivers,53-3030,Summary,3293.1,3456.6,2.1,2.1,163.6,5,371.5
+1044,Driver/sales workers,53-3031,Line item,467.9,461.0,0.3,0.3,-6.9,-1.5,48.2
+1045,Heavy and tractor-trailer truck drivers,53-3032,Line item,1871.7,1980.1,1.2,1.2,108.4,5.8,213.5
+1046,Light truck or delivery services drivers,53-3033,Line item,953.5,1015.6,0.6,0.6,62.1,6.5,109.8
+1047,Taxi drivers and chauffeurs,53-3041,Line item,305.1,320.3,0.2,0.2,15.1,5,32.7
+1048,"Motor vehicle operators, all other",53-3099,Line item,56.2,62.0,0,0.0,5.8,10.3,10.7
+1049,Rail transportation workers,53-4000,Summary,122.9,120.6,0.1,0.1,-2.3,-1.9,10.4
+1050,Locomotive engineers and operators,53-4010,Summary,44.4,42.5,0,0.0,-1.8,-4.1,3.3
+1051,Locomotive engineers,53-4011,Line item,38.8,37.7,0,0.0,-1.1,-2.8,3
+1052,Locomotive firers,53-4012,Line item,1.2,0.3,0,0.0,-0.9,-78.6,0
+1053,"Rail yard engineers, dinkey operators, and hostlers",53-4013,Line item,4.4,4.6,0,0.0,0.2,3.7,0.4
+1054,"Railroad brake, signal, and switch operators",53-4021,Line item,19.3,19.0,0,0.0,-0.3,-1.6,1.7
+1055,Railroad conductors and yardmasters,53-4031,Line item,41.8,41.0,0,0.0,-0.9,-2.1,3.7
+1056,Subway and streetcar operators,53-4041,Line item,12.8,13.4,0,0.0,0.5,4.1,1.3
+1057,"Rail transportation workers, all other",53-4099,Line item,4.6,4.8,0,0.0,0.1,3.1,0.4
+1058,Water transportation workers,53-5000,Summary,86.3,93.2,0.1,0.1,6.9,8,10.5
+1059,Sailors and marine oilers,53-5011,Line item,33.8,36.4,0,0.0,2.6,7.6,4.4
+1060,Ship and boat captains and operators,53-5020,Summary,42.4,46.1,0,0.0,3.7,8.7,4.8
+1061,"Captains, mates, and pilots of water vessels",53-5021,Line item,38.8,42.2,0,0.0,3.4,8.8,4.4
+1062,Motorboat operators,53-5022,Line item,3.6,3.9,0,0.0,0.3,7.6,0.4
+1063,Ship engineers,53-5031,Line item,10.1,10.8,0,0.0,0.7,6.5,1.3
+1064,Other transportation workers,53-6000,Summary,356.5,384.8,0.2,0.2,28.2,7.9,55.5
+1065,Bridge and lock tenders,53-6011,Line item,3.7,3.8,0,0.0,0.2,4.9,0.4
+1066,Parking lot attendants,53-6021,Line item,151.6,161.0,0.1,0.1,9.4,6.2,23.9
+1067,Automotive and watercraft service attendants,53-6031,Line item,110,121.7,0.1,0.1,11.7,10.6,20
+1068,Traffic technicians,53-6041,Line item,6.6,7.2,0,0.0,0.6,9.1,0.8
+1069,Transportation inspectors,53-6051,Line item,28.2,29.8,0,0.0,1.7,5.9,2.9
+1070,"Transportation attendants, except flight attendants",53-6061,Line item,18.5,20.0,0,0.0,1.6,8.4,2.7
+1071,"Transportation workers, all other",53-6099,Line item,38,41.2,0,0.0,3.1,8.3,4.8
+1072,Material moving workers,53-7000,Summary,4678,5000.2,3,3.0,322.1,6.9,676
+1073,Conveyor operators and tenders,53-7011,Line item,28.1,27.7,0,0.0,-0.3,-1.2,3.7
+1074,Crane and tower operators,53-7021,Line item,46,49.9,0,0.0,3.9,8.6,5.3
+1075,"Dredge, excavating, and loading machine operators",53-7030,Summary,55.1,59.1,0,0.0,4.1,7.4,6.6
+1076,Dredge operators,53-7031,Line item,1.8,1.9,0,0.0,0.1,5,0.2
+1077,Excavating and loading machine and dragline operators,53-7032,Line item,50.6,54.7,0,0.0,4.1,8.1,6.1
+1078,"Loading machine operators, underground mining",53-7033,Line item,2.6,2.5,0,0.0,-0.1,-3.5,0.3
+1079,Hoist and winch operators,53-7041,Line item,2.9,2.9,0,0.0,0,-0.7,0.4
+1080,Industrial truck and tractor operators,53-7051,Line item,549.9,585.9,0.4,0.3,36.1,6.6,65.9
+1081,"Laborers and material movers, hand",53-7060,Summary,3796,4049.7,2.4,2.4,253.7,6.7,566.6
+1082,Cleaners of vehicles and equipment,53-7061,Line item,369.2,408.7,0.2,0.2,39.5,10.7,57.8
+1083,"Laborers and freight, stock, and material movers, hand",53-7062,Line item,2628.4,2828.1,1.7,1.7,199.7,7.6,388.4
+1084,Machine feeders and offbearers,53-7063,Line item,87.7,89.2,0.1,0.1,1.6,1.8,12
+1085,"Packers and packagers, hand",53-7064,Line item,710.8,723.8,0.5,0.4,13,1.8,108.4
+1086,Pumping station operators,53-7070,Summary,27.3,31.6,0,0.0,4.3,15.6,3.9
+1087,Gas compressor and gas pumping station operators,53-7071,Line item,3.9,4.0,0,0.0,0.1,3.4,0.5
+1088,"Pump operators, except wellhead pumpers",53-7072,Line item,11.9,13.5,0,0.0,1.6,13.8,1.7
+1089,Wellhead pumpers,53-7073,Line item,11.5,14.0,0,0.0,2.5,21.7,1.8
+1090,Refuse and recyclable material collectors,53-7081,Line item,136,153.9,0.1,0.1,17.9,13.2,18.9
+1091,Mine shuttle car operators,53-7111,Line item,1.5,1.2,0,0.0,-0.3,-21.9,0.1
+1092,"Tank car, truck, and ship loaders",53-7121,Line item,10.8,11.4,0,0.0,0.6,5.2,1.4
+1093,"Material moving workers, all other",53-7199,Line item,24.4,26.7,0,0.0,2.3,9.3,3.2
+1094,"Source: Employment Projections program, U.S. Bureau of Labor Statistics",,,,,,,,,
